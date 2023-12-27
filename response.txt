@@ -1,0 +1,1594 @@
+
+<!DOCTYPE html>
+
+<html lang="es">
+
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <title>Feriados Argentina 2024</title><meta name='description' content='Calendario completo de feriados, feriados puentes y dias no laborables, mes por mes en Argentina 2024. '/><meta name='keywords' content='Feriados Nacionales, Boletín Oficial, Próximo feriado, Argentina, Feriados, feriados puente, feriados argentina.gob.ar, 2024'/>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width">
+
+
+  <base href='/'>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+  <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
+  <link rel="preconnect" href="https://tpc.googlesyndication.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+  <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+  <link rel="preconnect" href="https://adservice.google.com" crossorigin>
+  <link rel="preconnect" href="https://ads.vidoomy.com/" crossorigin>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://feriadosargentina.com.ar/css/style.css">
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NHRCP4LJ');
+  </script>
+  <!-- End Google Tag Manager -->
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHRCP4LJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+
+<div class="main-section">
+
+  <div class="navbar-wrap" style="background:#0072bb;">
+	<div class="container">
+		<nav class="navbar navbar-expand-lg navbar-light">
+			<a class="navbar-brand" style="color:white; font-size: 25px;" href="https://feriadosargentina.com.ar">Feriados Argentina</a>
+			<button class="navbar-toggler" type="button" id="navbar-toggler-btn" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<script>
+				document.getElementById('navbar-toggler-btn').addEventListener('click', function() {
+					var elements = document.querySelectorAll('.navbar-collapse');
+					elements.forEach(function(el) {
+						if (el.classList.contains('show')) {
+							el.classList.remove('show');
+						} else {
+							el.classList.add('show');
+						}
+					});
+				});
+			</script>
+
+			<div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+				<ul class="navbar-nav ml-auto">
+
+					<li class="nav-item d-flex dropdown">
+						<a class="nav-link d-flex align-items-center dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-bs-toggle="dropdown" style="color:white; font-size: 20px;">Feriados</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdown" style="position: absolute;">
+															<a class="dropdown-item" href="feriados/2022">Feriados 2022</a>
+
+															<a class="dropdown-item" href="feriados/2023">Feriados 2023</a>
+
+															<a class="dropdown-item" href="feriados/2024">Feriados 2024</a>
+
+															<a class="dropdown-item" href="feriados/2025">Feriados 2025</a>
+
+															<a class="dropdown-item" href="feriados/2026">Feriados 2026</a>
+
+													</div>
+					</li>
+					<li class="nav-item d-flex dropdown">
+						<a class="nav-link d-flex align-items-center dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" style="color:white; font-size: 20px;">Findes largos</a>
+						<div class="dropdown-menu" style="position: absolute;">
+															<a class="dropdown-item" href="findeslargos/2022">Fines de semana largos 2022</a>
+
+															<a class="dropdown-item" href="findeslargos/2023">Fines de semana largos 2023</a>
+
+															<a class="dropdown-item" href="findeslargos/2024">Fines de semana largos 2024</a>
+
+															<a class="dropdown-item" href="findeslargos/2025">Fines de semana largos 2025</a>
+
+															<a class="dropdown-item" href="findeslargos/2026">Fines de semana largos 2026</a>
+
+							
+						</div>
+					</li>
+
+					<li class="nav-item d-flex dropdown">
+						<a class="nav-link d-flex align-items-center dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-bs-toggle="dropdown" style="color:white; font-size: 20px;">Efémerides</a>
+						<div class="dropdown-menu" style="position: absolute;">
+							<a class="dropdown-item" href="efemerides/2024">Efémerides 2024</a>
+						</div>
+					</li>
+
+					<li class="nav-item d-flex dropdown">
+						<a class="nav-link d-flex align-items-center dropdown-toggle" href="#" id="navbarDropdown4" role="button" data-bs-toggle="dropdown" style="color:white; font-size: 20px;">Calendario</a>
+						<div class="dropdown-menu" style="position: absolute;">
+							<a class="dropdown-item" href="calendario">Calendario 2024</a>
+						</div>
+					</li>
+
+
+				</ul>
+
+			</div>
+		</nav>
+	</div>
+</div>
+
+
+<div class="navbar-wrap bg-dark navbar-dark">
+	<div class="container">
+		<nav class="navbar navbar-expand-sm">
+			<div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+				<ul class="navbar-nav">
+
+					<li class="nav-item">
+						<a class="nav-link align-items-center" href="proximoferiado/" style="color:white; font-size: 12px;">Próximo Feriado</a>
+
+					</li>
+					<li class="nav-item">
+						<a class="nav-link align-items-center" href="proximosferiados/" style="color:white; font-size: 12px;">Próximos Feriados</a>
+					</li>
+
+					<li class="nav-item">
+						<a class="nav-link align-items-center" href="proximosfindes/" style="color:white; font-size: 12px;">Próximos fines de semana largos</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link align-items-center" href="fiestas/2024/" style="color:white; font-size: 12px;">Fiestas y Festivales</a>
+					</li>
+					<li class="nav-item">
+						<a href="#" class="nav-link align-items-center icon" style="color:white;" aria-label="Facebook"><svg class="svg-icon" width="20" height="20" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<rect class="svg-icon-bg" x="0.5" y="0.5" width="31" height="31" rx="15.5" fill="transparent"></rect>
+								<path d="M14.1487 24.9911V15.914H11.5V13.0014H14.1487V12.7155C14.1487 11.9293 14.1202 11.1342 14.1867 10.348C14.1867 9.09719 14.9462 7.96255 16.1424 7.41756C16.5886 7.22101 17.0633 7.09593 17.5475 7.04233C18.5348 6.97086 19.5222 6.98872 20.5 7.10487V9.72258H20.2437C19.6836 9.72258 19.1329 9.72258 18.5728 9.74045C17.9462 9.70471 17.4051 10.1514 17.3671 10.7411C17.3671 10.7947 17.3671 10.8393 17.3671 10.893C17.3481 11.5541 17.3671 12.2152 17.3671 12.8763C17.3671 12.9121 17.3671 12.9567 17.3861 12.9925H20.4335C20.3006 13.9842 20.1677 14.9401 20.0348 15.9229H17.3766V25H14.1582L14.1487 24.9911Z" fill="#9B9B9B"></path>
+								<rect class="svg-icon-border" x="0.5" y="0.5" width="31" height="31" rx="15.5" stroke="#9B9B9B"></rect>
+							</svg></a>
+					</li>
+					<li class="nav-item">
+						<a href="#" class="nav-link align-items-center icon" style="color:white;" aria-label="Twitter"><svg class="svg-icon" width="20" height="20" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<rect class="svg-icon-bg" x="0.5" y="0.5" width="21" height="21" rx="10.5" fill="transparent"></rect>
+								<path d="M5.02929 5L9.66241 11.6187L5 17H6.04927L10.1311 12.2887L13.4292 17H17L12.1063 10.009L16.446 5H15.3967L11.6375 9.3391L8.60005 5H5.02929ZM6.57235 5.82578H8.21282L15.4568 16.174H13.8163L6.57235 5.82578Z" fill="#9B9B9B"></path>
+								<rect class="svg-icon-border" x="0.5" y="0.5" width="21" height="21" rx="10.5" stroke="#9B9B9B"></rect>
+							</svg></a>
+					</li>
+					<li class="nav-item">
+						<a href="#" class="nav-link align-items-center icon" style="color:white;" aria-label="Instagram"><svg class="svg-icon" width="20" height="20" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<rect class="svg-icon-bg" x="0.5" y="0.5" width="31" height="31" rx="15.5" fill="transparent"></rect>
+								<path d="M20.3321 10.752C19.7952 10.736 19.3487 11.1413 19.3381 11.68C19.3275 12.2187 19.7368 12.6453 20.2577 12.6667C20.7946 12.6827 21.2411 12.2667 21.2517 11.7387C21.2623 11.2107 20.853 10.7733 20.3321 10.752Z" fill="#9B9B9B"></path>
+								<path d="M24 13.7651C24 13.1785 23.9522 12.5865 23.899 11.9998C23.6864 9.96246 22.3149 8.44779 20.3056 8.15979C19.3116 8.02112 18.2857 7.99979 17.2757 7.99979C15.5429 7.99979 13.7993 7.98912 12.0664 8.11179C9.90831 8.26112 8.33488 9.86113 8.15947 12.0265C8.04784 13.3491 8.04784 14.6771 8 16.0158C8.05316 17.3385 8.05316 18.6771 8.16478 20.0051C8.32957 22.0318 9.74884 23.5571 11.7528 23.8451C12.7628 23.9838 13.7887 24.0051 14.8093 24.0051C16.5422 24.0051 18.2751 24.0158 19.9973 23.8931C21.592 23.7705 22.804 22.9545 23.511 21.4665C23.8193 20.8158 23.9575 20.1171 23.9628 19.4025L23.9522 19.4131C23.9787 17.5358 24 15.6478 24 13.7705V13.7651ZM22.4904 19.6051C22.4425 21.3171 21.3422 22.4105 19.6359 22.4585C17.2385 22.5225 14.8252 22.5225 12.4173 22.4585C10.7322 22.4105 9.62658 21.3171 9.58405 19.6211C9.52027 17.2051 9.52027 14.7785 9.58405 12.3518C9.63189 10.6611 10.7322 9.62112 12.4173 9.49846C13.0179 9.46113 13.6292 9.44512 14.2352 9.43446C14.8306 9.42379 18.4505 9.43446 19.6625 9.50912V9.49846C21.3422 9.59979 22.4425 10.6611 22.4904 12.3358C22.5542 14.7518 22.5542 17.1785 22.4904 19.6051Z" fill="#9B9B9B"></path>
+								<path d="M16.0533 11.8773C13.7835 11.8667 11.939 13.7173 11.939 15.9947C11.939 18.272 13.7569 20.096 16.0267 20.1013C18.2964 20.112 20.141 18.2613 20.141 15.984C20.141 13.7067 18.323 11.8773 16.0533 11.8773ZM16.0426 18.672C14.5702 18.672 13.3742 17.4613 13.3742 15.984C13.3848 14.5173 14.5755 13.328 16.0373 13.328H16.0479C17.5097 13.328 18.7004 14.528 18.7004 15.9947C18.7004 17.4613 17.515 18.672 16.0479 18.672H16.0426Z" fill="#9B9B9B"></path>
+								<rect class="svg-icon-border" x="0.5" y="0.5" width="31" height="31" rx="15.5" stroke="#9B9B9B"></rect>
+							</svg></a>
+					</li>
+				</ul>
+			</div>
+		</nav>
+	</div>
+</div>
+
+
+
+
+  <div class="container mt-5">
+
+    <div class="row justify-content-center">
+
+      <div class="col-md-9 text-center">
+
+        <h1 class="fs-1">Feriados 2024 Argentina</h1>
+
+      </div>
+
+    </div>
+
+
+
+    <div class="container mt-5">
+
+      <div class="row justify-content-center mt-5">
+
+        <div class="col text-center">
+
+          <table class='table text-center table-borderless'>
+
+            <tbody>
+
+              <tr style='height: 30px;'>
+
+                <td style='background-color:#0072bb; color:#fff; width: 50px;'></td>
+
+                <td class='text-center'>Feriados inamovibles</td>
+
+              </tr>
+
+            </tbody>
+
+          </table>
+
+        </div>
+
+        <div class="col text-center">
+
+          <table class='table text-center table-borderless'>
+
+            <tbody>
+
+              <tr style='height: 30px;'>
+
+                <td style='background-color:#2e7d33; color:#fff; width: 50px;'></td>
+
+                <td class='text-center'>Feriados trasladables</td>
+
+              </tr>
+
+            </tbody>
+
+          </table>
+
+        </div>
+
+        <div class="col text-center">
+
+          <table class='table text-center table-borderless'>
+
+            <tbody>
+
+              <tr style='height: 30px;'>
+
+                <td style='background-color:#595959; color:#fff; width: 50px;'></td>
+
+                <td class='text-center'>Días no laborables</td>
+
+              </tr>
+
+            </tbody>
+
+          </table>
+
+        </div>
+
+        <div class="col text-center">
+
+          <table class='table text-center table-borderless'>
+
+            <tbody>
+
+              <tr style='height: 30px;'>
+
+                <td style='background-color:#6a1b99; color:#fff; width: 50px;'></td>
+
+                <td class='text-center'>Feriados Turísticos</td>
+
+              </tr>
+
+            </tbody>
+
+          </table>
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+  </div>
+
+
+
+
+
+
+
+
+
+  <!-- END nav -->
+
+  
+
+
+
+
+  <section class="ftco-section goto-here pb-0 mt-5">
+
+    <div class="container">
+
+      <div class="row">
+
+
+
+        <div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='enero-2024/' class='link-light text-decoration-none'>enero 2024</a></span></ul></li></div>
+
+            <table class='table table-striped text-center' role='presentation'>
+
+              <tbody>
+
+            <tr>
+
+            <td aria-hidden='true' class='text-center dias'>Lun</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mar</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mié</td>
+
+            <td aria-hidden='true' class='text-center dias'>Jue</td>
+
+            <td aria-hidden='true' class='text-center dias'>Vie</td>
+
+            <td aria-hidden='true' class='text-center dias'>Sáb</td>
+
+            <td aria-hidden='true' class='text-center dias'>Dom</td>
+
+          </tr><td id='January-1-2024' style='background-color:#0072bb; color:#fff;'>1</td><td id='January-2-2024'>2</td><td id='January-3-2024'>3</td><td id='January-4-2024'>4</td><td id='January-5-2024'>5</td><td id='January-6-2024'>6</td><td id='January-7-2024'>7</td></tr><td id='January-8-2024'>8</td><td id='January-9-2024'>9</td><td id='January-10-2024'>10</td><td id='January-11-2024'>11</td><td id='January-12-2024'>12</td><td id='January-13-2024'>13</td><td id='January-14-2024'>14</td></tr><td id='January-15-2024'>15</td><td id='January-16-2024'>16</td><td id='January-17-2024'>17</td><td id='January-18-2024'>18</td><td id='January-19-2024'>19</td><td id='January-20-2024'>20</td><td id='January-21-2024'>21</td></tr><td id='January-22-2024'>22</td><td id='January-23-2024'>23</td><td id='January-24-2024'>24</td><td id='January-25-2024'>25</td><td id='January-26-2024'>26</td><td id='January-27-2024'>27</td><td id='January-28-2024'>28</td></tr><td id='January-29-2024'>29</td><td id='January-30-2024'>30</td><td id='January-31-2024'>31</td><td></td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='January-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='febrero-2024/' class='link-light text-decoration-none'>febrero 2024</a></span></ul></li></div>
+
+            <table class='table table-striped text-center' role='presentation'>
+
+              <tbody>
+
+            <tr>
+
+            <td aria-hidden='true' class='text-center dias'>Lun</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mar</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mié</td>
+
+            <td aria-hidden='true' class='text-center dias'>Jue</td>
+
+            <td aria-hidden='true' class='text-center dias'>Vie</td>
+
+            <td aria-hidden='true' class='text-center dias'>Sáb</td>
+
+            <td aria-hidden='true' class='text-center dias'>Dom</td>
+
+          </tr><td> </td><td> </td><td> </td><td id='February-1-2024'>1</td><td id='February-2-2024'>2</td><td id='February-3-2024'>3</td><td id='February-4-2024'>4</td></tr><td id='February-5-2024'>5</td><td id='February-6-2024'>6</td><td id='February-7-2024'>7</td><td id='February-8-2024'>8</td><td id='February-9-2024'>9</td><td id='February-10-2024'>10</td><td id='February-11-2024'>11</td></tr><td id='February-12-2024' style='background-color:#0072bb; color:#fff;'>12</td><td id='February-13-2024' style='background-color:#0072bb; color:#fff;'>13</td><td id='February-14-2024'>14</td><td id='February-15-2024'>15</td><td id='February-16-2024'>16</td><td id='February-17-2024'>17</td><td id='February-18-2024'>18</td></tr><td id='February-19-2024'>19</td><td id='February-20-2024'>20</td><td id='February-21-2024'>21</td><td id='February-22-2024'>22</td><td id='February-23-2024'>23</td><td id='February-24-2024'>24</td><td id='February-25-2024'>25</td></tr><td id='February-26-2024'>26</td><td id='February-27-2024'>27</td><td id='February-28-2024'>28</td><td id='February-29-2024'>29</td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='February-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='marzo-2024/' class='link-light text-decoration-none'>marzo 2024</a></span></ul></li></div>
+
+            <table class='table table-striped text-center' role='presentation'>
+
+              <tbody>
+
+            <tr>
+
+            <td aria-hidden='true' class='text-center dias'>Lun</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mar</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mié</td>
+
+            <td aria-hidden='true' class='text-center dias'>Jue</td>
+
+            <td aria-hidden='true' class='text-center dias'>Vie</td>
+
+            <td aria-hidden='true' class='text-center dias'>Sáb</td>
+
+            <td aria-hidden='true' class='text-center dias'>Dom</td>
+
+          </tr><td> </td><td> </td><td> </td><td> </td><td id='March-1-2024'>1</td><td id='March-2-2024'>2</td><td id='March-3-2024'>3</td></tr><td id='March-4-2024'>4</td><td id='March-5-2024'>5</td><td id='March-6-2024'>6</td><td id='March-7-2024'>7</td><td id='March-8-2024'>8</td><td id='March-9-2024'>9</td><td id='March-10-2024'>10</td></tr><td id='March-11-2024'>11</td><td id='March-12-2024'>12</td><td id='March-13-2024'>13</td><td id='March-14-2024'>14</td><td id='March-15-2024'>15</td><td id='March-16-2024'>16</td><td id='March-17-2024'>17</td></tr><td id='March-18-2024'>18</td><td id='March-19-2024'>19</td><td id='March-20-2024'>20</td><td id='March-21-2024'>21</td><td id='March-22-2024'>22</td><td id='March-23-2024'>23</td><td id='March-24-2024' style='background-color:#0072bb; color:#fff;'>24</td></tr><td id='March-25-2024'>25</td><td id='March-26-2024'>26</td><td id='March-27-2024'>27</td><td id='March-28-2024' style='background-color:#595959; color:#fff;'>28</td><td id='March-29-2024' style='background-color:#0072bb; color:#fff;'>29</td><td id='March-30-2024'>30</td><td id='March-31-2024'>31</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='March-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='abril-2024/' class='link-light text-decoration-none'>abril 2024</a></span></ul></li></div>
+
+            <table class='table table-striped text-center' role='presentation'>
+
+              <tbody>
+
+            <tr>
+
+            <td aria-hidden='true' class='text-center dias'>Lun</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mar</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mié</td>
+
+            <td aria-hidden='true' class='text-center dias'>Jue</td>
+
+            <td aria-hidden='true' class='text-center dias'>Vie</td>
+
+            <td aria-hidden='true' class='text-center dias'>Sáb</td>
+
+            <td aria-hidden='true' class='text-center dias'>Dom</td>
+
+          </tr><td id='April-1-2024' style='background-color:#6a1b99; color:#fff;'>1</td><td id='April-2-2024' style='background-color:#0072bb; color:#fff;'>2</td><td id='April-3-2024'>3</td><td id='April-4-2024'>4</td><td id='April-5-2024'>5</td><td id='April-6-2024'>6</td><td id='April-7-2024'>7</td></tr><td id='April-8-2024'>8</td><td id='April-9-2024'>9</td><td id='April-10-2024' style='background-color:#595959; color:#fff;'>10</td><td id='April-11-2024'>11</td><td id='April-12-2024'>12</td><td id='April-13-2024'>13</td><td id='April-14-2024'>14</td></tr><td id='April-15-2024'>15</td><td id='April-16-2024'>16</td><td id='April-17-2024'>17</td><td id='April-18-2024'>18</td><td id='April-19-2024'>19</td><td id='April-20-2024'>20</td><td id='April-21-2024'>21</td></tr><td id='April-22-2024'>22</td><td id='April-23-2024'>23</td><td id='April-24-2024' style='background-color:#595959; color:#fff;'>24</td><td id='April-25-2024'>25</td><td id='April-26-2024'>26</td><td id='April-27-2024'>27</td><td id='April-28-2024'>28</td></tr><td id='April-29-2024'>29</td><td id='April-30-2024'>30</td><td></td><td></td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='April-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='mayo-2024/' class='link-light text-decoration-none'>mayo 2024</a></span></ul></li></div>
+
+            <table class='table table-striped text-center' role='presentation'>
+
+              <tbody>
+
+            <tr>
+
+            <td aria-hidden='true' class='text-center dias'>Lun</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mar</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mié</td>
+
+            <td aria-hidden='true' class='text-center dias'>Jue</td>
+
+            <td aria-hidden='true' class='text-center dias'>Vie</td>
+
+            <td aria-hidden='true' class='text-center dias'>Sáb</td>
+
+            <td aria-hidden='true' class='text-center dias'>Dom</td>
+
+          </tr><td> </td><td> </td><td id='May-1-2024' style='background-color:#0072bb; color:#fff;'>1</td><td id='May-2-2024'>2</td><td id='May-3-2024'>3</td><td id='May-4-2024'>4</td><td id='May-5-2024'>5</td></tr><td id='May-6-2024'>6</td><td id='May-7-2024'>7</td><td id='May-8-2024'>8</td><td id='May-9-2024'>9</td><td id='May-10-2024'>10</td><td id='May-11-2024'>11</td><td id='May-12-2024'>12</td></tr><td id='May-13-2024'>13</td><td id='May-14-2024'>14</td><td id='May-15-2024'>15</td><td id='May-16-2024'>16</td><td id='May-17-2024'>17</td><td id='May-18-2024'>18</td><td id='May-19-2024'>19</td></tr><td id='May-20-2024'>20</td><td id='May-21-2024'>21</td><td id='May-22-2024'>22</td><td id='May-23-2024'>23</td><td id='May-24-2024'>24</td><td id='May-25-2024' style='background-color:#0072bb; color:#fff;'>25</td><td id='May-26-2024'>26</td></tr><td id='May-27-2024'>27</td><td id='May-28-2024'>28</td><td id='May-29-2024'>29</td><td id='May-30-2024'>30</td><td id='May-31-2024'>31</td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='May-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='junio-2024/' class='link-light text-decoration-none'>junio 2024</a></span></ul></li></div>
+
+            <table class='table table-striped text-center' role='presentation'>
+
+              <tbody>
+
+            <tr>
+
+            <td aria-hidden='true' class='text-center dias'>Lun</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mar</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mié</td>
+
+            <td aria-hidden='true' class='text-center dias'>Jue</td>
+
+            <td aria-hidden='true' class='text-center dias'>Vie</td>
+
+            <td aria-hidden='true' class='text-center dias'>Sáb</td>
+
+            <td aria-hidden='true' class='text-center dias'>Dom</td>
+
+          </tr><td> </td><td> </td><td> </td><td> </td><td> </td><td id='June-1-2024'>1</td><td id='June-2-2024'>2</td></tr><td id='June-3-2024'>3</td><td id='June-4-2024'>4</td><td id='June-5-2024'>5</td><td id='June-6-2024'>6</td><td id='June-7-2024'>7</td><td id='June-8-2024'>8</td><td id='June-9-2024'>9</td></tr><td id='June-10-2024'>10</td><td id='June-11-2024'>11</td><td id='June-12-2024'>12</td><td id='June-13-2024'>13</td><td id='June-14-2024'>14</td><td id='June-15-2024'>15</td><td id='June-16-2024'>16</td></tr><td id='June-17-2024' style='background-color:#2e7d33; color:#fff;'>17</td><td id='June-18-2024'>18</td><td id='June-19-2024'>19</td><td id='June-20-2024' style='background-color:#0072bb; color:#fff;'>20</td><td id='June-21-2024'>21</td><td id='June-22-2024'>22</td><td id='June-23-2024'>23</td></tr><td id='June-24-2024'>24</td><td id='June-25-2024'>25</td><td id='June-26-2024'>26</td><td id='June-27-2024'>27</td><td id='June-28-2024'>28</td><td id='June-29-2024'>29</td><td id='June-30-2024'>30</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='June-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='julio-2024/' class='link-light text-decoration-none'>julio 2024</a></span></ul></li></div>
+
+            <table class='table table-striped text-center' role='presentation'>
+
+              <tbody>
+
+            <tr>
+
+            <td aria-hidden='true' class='text-center dias'>Lun</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mar</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mié</td>
+
+            <td aria-hidden='true' class='text-center dias'>Jue</td>
+
+            <td aria-hidden='true' class='text-center dias'>Vie</td>
+
+            <td aria-hidden='true' class='text-center dias'>Sáb</td>
+
+            <td aria-hidden='true' class='text-center dias'>Dom</td>
+
+          </tr><td id='July-1-2024'>1</td><td id='July-2-2024'>2</td><td id='July-3-2024'>3</td><td id='July-4-2024'>4</td><td id='July-5-2024'>5</td><td id='July-6-2024'>6</td><td id='July-7-2024' style='background-color:#595959; color:#fff;'>7</td></tr><td id='July-8-2024'>8</td><td id='July-9-2024' style='background-color:#0072bb; color:#fff;'>9</td><td id='July-10-2024'>10</td><td id='July-11-2024'>11</td><td id='July-12-2024'>12</td><td id='July-13-2024'>13</td><td id='July-14-2024'>14</td></tr><td id='July-15-2024'>15</td><td id='July-16-2024'>16</td><td id='July-17-2024'>17</td><td id='July-18-2024'>18</td><td id='July-19-2024'>19</td><td id='July-20-2024'>20</td><td id='July-21-2024'>21</td></tr><td id='July-22-2024'>22</td><td id='July-23-2024'>23</td><td id='July-24-2024'>24</td><td id='July-25-2024'>25</td><td id='July-26-2024'>26</td><td id='July-27-2024'>27</td><td id='July-28-2024'>28</td></tr><td id='July-29-2024'>29</td><td id='July-30-2024'>30</td><td id='July-31-2024'>31</td><td></td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='July-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='agosto-2024/' class='link-light text-decoration-none'>agosto 2024</a></span></ul></li></div>
+
+            <table class='table table-striped text-center' role='presentation'>
+
+              <tbody>
+
+            <tr>
+
+            <td aria-hidden='true' class='text-center dias'>Lun</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mar</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mié</td>
+
+            <td aria-hidden='true' class='text-center dias'>Jue</td>
+
+            <td aria-hidden='true' class='text-center dias'>Vie</td>
+
+            <td aria-hidden='true' class='text-center dias'>Sáb</td>
+
+            <td aria-hidden='true' class='text-center dias'>Dom</td>
+
+          </tr><td> </td><td> </td><td> </td><td id='August-1-2024'>1</td><td id='August-2-2024'>2</td><td id='August-3-2024'>3</td><td id='August-4-2024'>4</td></tr><td id='August-5-2024'>5</td><td id='August-6-2024'>6</td><td id='August-7-2024'>7</td><td id='August-8-2024'>8</td><td id='August-9-2024'>9</td><td id='August-10-2024'>10</td><td id='August-11-2024'>11</td></tr><td id='August-12-2024'>12</td><td id='August-13-2024'>13</td><td id='August-14-2024'>14</td><td id='August-15-2024'>15</td><td id='August-16-2024'>16</td><td id='August-17-2024' style='background-color:#2e7d33; color:#fff;'>17</td><td id='August-18-2024'>18</td></tr><td id='August-19-2024'>19</td><td id='August-20-2024'>20</td><td id='August-21-2024'>21</td><td id='August-22-2024'>22</td><td id='August-23-2024'>23</td><td id='August-24-2024'>24</td><td id='August-25-2024'>25</td></tr><td id='August-26-2024'>26</td><td id='August-27-2024'>27</td><td id='August-28-2024'>28</td><td id='August-29-2024'>29</td><td id='August-30-2024'>30</td><td id='August-31-2024'>31</td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='August-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='septiembre-2024/' class='link-light text-decoration-none'>septiembre 2024</a></span></ul></li></div>
+
+            <table class='table table-striped text-center' role='presentation'>
+
+              <tbody>
+
+            <tr>
+
+            <td aria-hidden='true' class='text-center dias'>Lun</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mar</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mié</td>
+
+            <td aria-hidden='true' class='text-center dias'>Jue</td>
+
+            <td aria-hidden='true' class='text-center dias'>Vie</td>
+
+            <td aria-hidden='true' class='text-center dias'>Sáb</td>
+
+            <td aria-hidden='true' class='text-center dias'>Dom</td>
+
+          </tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td id='September-1-2024'>1</td></tr><td id='September-2-2024'>2</td><td id='September-3-2024'>3</td><td id='September-4-2024'>4</td><td id='September-5-2024'>5</td><td id='September-6-2024'>6</td><td id='September-7-2024'>7</td><td id='September-8-2024'>8</td></tr><td id='September-9-2024'>9</td><td id='September-10-2024'>10</td><td id='September-11-2024'>11</td><td id='September-12-2024'>12</td><td id='September-13-2024'>13</td><td id='September-14-2024'>14</td><td id='September-15-2024'>15</td></tr><td id='September-16-2024'>16</td><td id='September-17-2024'>17</td><td id='September-18-2024'>18</td><td id='September-19-2024'>19</td><td id='September-20-2024'>20</td><td id='September-21-2024'>21</td><td id='September-22-2024'>22</td></tr><td id='September-23-2024'>23</td><td id='September-24-2024'>24</td><td id='September-25-2024'>25</td><td id='September-26-2024'>26</td><td id='September-27-2024'>27</td><td id='September-28-2024'>28</td><td id='September-29-2024'>29</td></tr><td id='September-30-2024'>30</td><td></td><td></td><td></td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='September-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='octubre-2024/' class='link-light text-decoration-none'>octubre 2024</a></span></ul></li></div>
+
+            <table class='table table-striped text-center' role='presentation'>
+
+              <tbody>
+
+            <tr>
+
+            <td aria-hidden='true' class='text-center dias'>Lun</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mar</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mié</td>
+
+            <td aria-hidden='true' class='text-center dias'>Jue</td>
+
+            <td aria-hidden='true' class='text-center dias'>Vie</td>
+
+            <td aria-hidden='true' class='text-center dias'>Sáb</td>
+
+            <td aria-hidden='true' class='text-center dias'>Dom</td>
+
+          </tr><td> </td><td id='October-1-2024'>1</td><td id='October-2-2024'>2</td><td id='October-3-2024' style='background-color:#595959; color:#fff;'>3</td><td id='October-4-2024' style='background-color:#595959; color:#fff;'>4</td><td id='October-5-2024'>5</td><td id='October-6-2024'>6</td></tr><td id='October-7-2024'>7</td><td id='October-8-2024'>8</td><td id='October-9-2024'>9</td><td id='October-10-2024'>10</td><td id='October-11-2024'>11</td><td id='October-12-2024' style='background-color:#2e7d33; color:#fff;'>12</td><td id='October-13-2024'>13</td></tr><td id='October-14-2024'>14</td><td id='October-15-2024'>15</td><td id='October-16-2024'>16</td><td id='October-17-2024'>17</td><td id='October-18-2024'>18</td><td id='October-19-2024'>19</td><td id='October-20-2024'>20</td></tr><td id='October-21-2024'>21</td><td id='October-22-2024'>22</td><td id='October-23-2024'>23</td><td id='October-24-2024'>24</td><td id='October-25-2024'>25</td><td id='October-26-2024'>26</td><td id='October-27-2024'>27</td></tr><td id='October-28-2024'>28</td><td id='October-29-2024'>29</td><td id='October-30-2024'>30</td><td id='October-31-2024'>31</td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='October-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='noviembre-2024/' class='link-light text-decoration-none'>noviembre 2024</a></span></ul></li></div>
+
+            <table class='table table-striped text-center' role='presentation'>
+
+              <tbody>
+
+            <tr>
+
+            <td aria-hidden='true' class='text-center dias'>Lun</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mar</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mié</td>
+
+            <td aria-hidden='true' class='text-center dias'>Jue</td>
+
+            <td aria-hidden='true' class='text-center dias'>Vie</td>
+
+            <td aria-hidden='true' class='text-center dias'>Sáb</td>
+
+            <td aria-hidden='true' class='text-center dias'>Dom</td>
+
+          </tr><td> </td><td> </td><td> </td><td> </td><td id='November-1-2024'>1</td><td id='November-2-2024'>2</td><td id='November-3-2024'>3</td></tr><td id='November-4-2024'>4</td><td id='November-5-2024'>5</td><td id='November-6-2024'>6</td><td id='November-7-2024'>7</td><td id='November-8-2024'>8</td><td id='November-9-2024'>9</td><td id='November-10-2024'>10</td></tr><td id='November-11-2024'>11</td><td id='November-12-2024'>12</td><td id='November-13-2024'>13</td><td id='November-14-2024'>14</td><td id='November-15-2024'>15</td><td id='November-16-2024'>16</td><td id='November-17-2024'>17</td></tr><td id='November-18-2024' style='background-color:#2e7d33; color:#fff;'>18</td><td id='November-19-2024'>19</td><td id='November-20-2024'>20</td><td id='November-21-2024'>21</td><td id='November-22-2024'>22</td><td id='November-23-2024'>23</td><td id='November-24-2024'>24</td></tr><td id='November-25-2024'>25</td><td id='November-26-2024'>26</td><td id='November-27-2024'>27</td><td id='November-28-2024'>28</td><td id='November-29-2024'>29</td><td id='November-30-2024'>30</td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='November-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='diciembre-2024/' class='link-light text-decoration-none'>diciembre 2024</a></span></ul></li></div>
+
+            <table class='table table-striped text-center' role='presentation'>
+
+              <tbody>
+
+            <tr>
+
+            <td aria-hidden='true' class='text-center dias'>Lun</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mar</td>
+
+            <td aria-hidden='true' class='text-center dias'>Mié</td>
+
+            <td aria-hidden='true' class='text-center dias'>Jue</td>
+
+            <td aria-hidden='true' class='text-center dias'>Vie</td>
+
+            <td aria-hidden='true' class='text-center dias'>Sáb</td>
+
+            <td aria-hidden='true' class='text-center dias'>Dom</td>
+
+          </tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td id='December-1-2024'>1</td></tr><td id='December-2-2024'>2</td><td id='December-3-2024'>3</td><td id='December-4-2024'>4</td><td id='December-5-2024'>5</td><td id='December-6-2024'>6</td><td id='December-7-2024'>7</td><td id='December-8-2024' style='background-color:#0072bb; color:#fff;'>8</td></tr><td id='December-9-2024'>9</td><td id='December-10-2024'>10</td><td id='December-11-2024'>11</td><td id='December-12-2024'>12</td><td id='December-13-2024'>13</td><td id='December-14-2024'>14</td><td id='December-15-2024'>15</td></tr><td id='December-16-2024'>16</td><td id='December-17-2024'>17</td><td id='December-18-2024'>18</td><td id='December-19-2024'>19</td><td id='December-20-2024'>20</td><td id='December-21-2024'>21</td><td id='December-22-2024'>22</td></tr><td id='December-23-2024'>23</td><td id='December-24-2024'>24</td><td id='December-25-2024' style='background-color:#0072bb; color:#fff;'>25</td><td id='December-26-2024'>26</td><td id='December-27-2024'>27</td><td id='December-28-2024'>28</td><td id='December-29-2024'>29</td></tr><td id='December-30-2024'>30</td><td id='December-31-2024'>31</td><td></td><td></td><td></td><td></td><td></td></tbody></table><div class='lista' id='December-2024'> </div></div></div>
+
+
+
+
+        <div class="row">
+
+          <div class="col-md-10 col-md-offset-1">
+
+            <h2 class="h5" style="text-transform: uppercase">Feriados trasladables</h2>
+
+            <p>Los feriados nacionales cuyas fechas coincidan con los días martes y miércoles serán trasladados al día lunes anterior. Los que coincidan con los días jueves y viernes serán trasladados al día lunes siguiente. Art. 6 de la <a href="https://www.argentina.gob.ar/normativa/nacional/ley-27399-281835" target="_blank">Ley 27.399</a></p>
+
+            <h2 class="h5" style="text-transform: uppercase">Feriados Nacionales</h2>
+
+            <p>Feriados Nacionales que se rigen por el la Ley de Establecimiento de Feriados y Fines de semanas largos Nº 27.399 Publicada en el Boletín Oficial del 18/10/2017.</p>
+
+            <h2 class="h5" style="text-transform: uppercase">(*) Días no laborables</h2>
+
+
+
+            
+
+                <li><strong>jueves 06 de abril 2023 - <a style="color:black" href="feriado/primeros-dos-das-de-la-pascua-judia">Primeros dos días de la Pascua Judía </a></strong>: Sólo para habitantes que profesen la Religión Judía. Dispuesto por el Art. 2 de la Ley 27.399.</li>
+
+
+            
+
+                <li><strong>viernes 07 de abril 2023 - <a style="color:black" href="feriado/primeros-dos-das-de-la-pascua-judia-2023">Primeros dos días de la Pascua Judía </a></strong>: Sólo para habitantes que profesen la Religión Judía. Dispuesto por el Art. 2 de la Ley 27.399.</li>
+
+
+            
+
+                <li><strong>miércoles 12 de abril 2023 - <a style="color:black" href="feriado/utimos-dos-das-de-la-pascua-judia"> Últimos dos días de la Pascua Judía</a></strong>: Sólo para habitantes que profesen la Religión Judía. Dispuesto por el Art. 2 de la Ley 27.399.</li>
+
+
+            
+
+                <li><strong>jueves 13 de abril 2023 - <a style="color:black" href="feriado/utimos-dos-das-de-la-pascua-judia-2023">Últimos dos días de la Pascua Judía</a></strong>: Sólo para habitantes que profesen la Religión Judía. Dispuesto por el Art. 2 de la Ley 27.399.</li>
+
+
+            
+
+                <li><strong>viernes 21 de abril 2023 - <a style="color:black" href="feriado/fiesta-de-la-ruptura-del-ayuno-del-sagrado-mes-de-ramadan-2023">Fiesta de la Ruptura del Ayuno del Sagrado Mes de Ramadán</a></strong>: Solo para los habitantes que profesen la Religión Islámica. Dispuesto por el Articulo 3 de la Ley N° 27.399. Fechas aproximadas. Se rigen por el calendario lunar.</li>
+
+
+            
+
+                <li><strong>lunes 24 de abril 2023 - <a style="color:black" href="feriado/dia-de-accion-por-la-tolerancia-y-el-respeto-entre-los-pueblos-2023"> Día de acción por la tolerancia y el respeto entre los pueblos</a></strong>: Ley Nº 26.199 dictada en conmemoración del genocidio sufrido por el pueblo armenio. Los empleados y funcionarios de organismos públicos y los alumnos de origen armenio quedan autorizados a disponer libremente de los días 24 de abril de todos los años para poder asistir y participar de las actividades que se realicen en conmemoración de la tragedia que afectó a su comunidad. Se invita a los gobiernos provinciales a adherir a las disposiciones de la presente ley.</li>
+
+
+            
+
+                <li><strong>miércoles 28 de junio 2023 - <a style="color:black" href="feriado/fiesta-del-sacrificio-2023">Fiesta del Sacrificio</a></strong>: Solo para los habitantes que profesen la Religión Islámica. Dispuesto por el Articulo 3 de la Ley N° 27.399. Fechas aproximadas. Se rigen por el calendario lunar.</li>
+
+
+            
+
+                <li><strong>miércoles 19 de julio 2023 - <a style="color:black" href="feriado/ano-nuevo-islmico-2023">Año Nuevo Islámico</a></strong>: Solo para los habitantes que profesen la Religión Islámica. Dispuesto por el Articulo 3 de la Ley N° 27.399. Fechas aproximadas. Se rigen por el calendario lunar.</li>
+
+
+            
+
+                <li><strong>sábado 16 de septiembre 2023 - <a style="color:black" href="feriado/ano-nuevo-judio">Año Nuevo Judío</a></strong>:  Sólo para habitantes que profesen la Religión Judía. Dispuesto por el Art. 2 de la Ley 27.399.</li>
+
+
+            
+
+                <li><strong>domingo 17 de septiembre 2023 - <a style="color:black" href="feriado/ano-nuevo-judio-2023"> Año Nuevo Judío</a></strong>: Sólo para habitantes que profesen la Religión Judía. Dispuesto por el Art. 2 de la Ley 27.399.</li>
+
+
+            
+
+                <li><strong>lunes 25 de septiembre 2023 - <a style="color:black" href="feriado/dia-del-perdon-2023">Día del Perdón</a></strong>: Sólo para habitantes que profesen la Religión Judía. Dispuesto por el Art. 2 de la Ley 27.399.</li>
+
+
+            
+
+
+
+          </div>
+
+        </div>
+
+
+
+
+
+
+
+        <div class="row mt-5">
+
+
+
+          <div class="col-md-6">
+
+
+
+            <div class="12">
+
+
+
+              <h4><b>Feriados Nacionales en Argentina 2024 </b></h4><br>
+            </div>
+
+
+
+          </div>
+
+        </div>
+
+        <div class="row">
+
+
+
+          <div class="col-md-6">
+
+
+
+            <h4>Feriados inamovibles</h4>
+
+
+
+            <tr>
+
+
+
+              <table class="table table-bordered table-hover">
+
+                <thead>
+
+                  <tr>
+
+                    <th>Feriados</th>
+
+                    <th>Fecha</th>
+
+
+
+
+
+                  </tr>
+
+                </thead>
+
+                <tbody>
+
+
+
+                  
+                        <tr>
+
+                          <td><a style="color:black" href="feriado/ano-nuevo-2024">Año nuevo 2024</a></td>
+
+                          <td> <a style="color:black" href="feriado/ano-nuevo-2024">lunes 01 de enero 2024</a></td>
+
+
+
+                        
+                        <tr>
+
+                          <td><a style="color:black" href="feriado/lunes-carnaval-2024">Carnaval 2024</a></td>
+
+                          <td> <a style="color:black" href="feriado/lunes-carnaval-2024">lunes 12 de febrero 2024</a></td>
+
+
+
+                        
+                        <tr>
+
+                          <td><a style="color:black" href="feriado/martes-carnaval-2024">Carnaval 2024</a></td>
+
+                          <td> <a style="color:black" href="feriado/martes-carnaval-2024">martes 13 de febrero 2024</a></td>
+
+
+
+                        
+                        <tr>
+
+                          <td><a style="color:black" href="feriado/dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2024">Día Nacional de la Memoria por la Verdad y la Justicia</a></td>
+
+                          <td> <a style="color:black" href="feriado/dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2024">domingo 24 de marzo 2024</a></td>
+
+
+
+                        
+                        <tr>
+
+                          <td><a style="color:black" href="feriado/viernes-santo-2024">Viernes Santo 2024</a></td>
+
+                          <td> <a style="color:black" href="feriado/viernes-santo-2024">viernes 29 de marzo 2024</a></td>
+
+
+
+                        
+                        <tr>
+
+                          <td><a style="color:black" href="feriado/dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2024">Día del Veterano y de los Caídos en la Guerra de Malvinas</a></td>
+
+                          <td> <a style="color:black" href="feriado/dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2024">martes 02 de abril 2024</a></td>
+
+
+
+                        
+                        <tr>
+
+                          <td><a style="color:black" href="feriado/dia-del-trabajador-2024">Día del Trabajador</a></td>
+
+                          <td> <a style="color:black" href="feriado/dia-del-trabajador-2024">miércoles 01 de mayo 2024</a></td>
+
+
+
+                        
+                        <tr>
+
+                          <td><a style="color:black" href="feriado/dia-de-la-revolucion-de-mayo-2024">Día de la Revolución de Mayo</a></td>
+
+                          <td> <a style="color:black" href="feriado/dia-de-la-revolucion-de-mayo-2024">sábado 25 de mayo 2024</a></td>
+
+
+
+                        
+                        <tr>
+
+                          <td><a style="color:black" href="feriado/dia-de-la-bandera-2024">Día de la Bandera</a></td>
+
+                          <td> <a style="color:black" href="feriado/dia-de-la-bandera-2024">jueves 20 de junio 2024</a></td>
+
+
+
+                        
+                        <tr>
+
+                          <td><a style="color:black" href="feriado/dia-de-la-independencia-2024">Día de la Independencia</a></td>
+
+                          <td> <a style="color:black" href="feriado/dia-de-la-independencia-2024">martes 09 de julio 2024</a></td>
+
+
+
+                        
+                        <tr>
+
+                          <td><a style="color:black" href="feriado/dia-de-la-inmaculada-concepcion-de-maria-2024">Día de la Virgen</a></td>
+
+                          <td> <a style="color:black" href="feriado/dia-de-la-inmaculada-concepcion-de-maria-2024">domingo 08 de diciembre 2024</a></td>
+
+
+
+                        
+                        <tr>
+
+                          <td><a style="color:black" href="feriado/navidad-2024">Navidad 2024</a></td>
+
+                          <td> <a style="color:black" href="feriado/navidad-2024">miércoles 25 de diciembre 2024</a></td>
+
+
+
+                        
+                        </tr>
+
+                </tbody>
+
+              </table>
+
+          </div>
+
+
+
+          <div class="col-md-6">
+
+
+
+            <h4>Días no laborables</h4>
+
+
+
+            <tr>
+
+
+
+              <table class="table table-bordered table-hover">
+
+                <thead>
+
+                  <tr>
+
+                    <th>Feriados</th>
+
+                    <th>Fecha</th>
+
+
+
+
+
+                  </tr>
+
+                </thead>
+
+                <tbody>
+
+
+
+                  
+                        <tr>
+
+                          <td>Jueves Santo 2024</td>
+                          <td>jueves 28 de marzo 2024</td>
+
+
+
+                    
+                        <tr>
+
+                          <td>Fiesta de la Ruptura del Ayuno del Sagrado Mes de Ramadán (Id al-Fitr) </td>
+                          <td>miércoles 10 de abril 2024</td>
+
+
+
+                    
+                        <tr>
+
+                          <td>Día de acción por la tolerancia y el respeto entre los pueblos</td>
+                          <td>miércoles 24 de abril 2024</td>
+
+
+
+                    
+                        <tr>
+
+                          <td>Año Nuevo Islámico</td>
+                          <td>domingo 07 de julio 2024</td>
+
+
+
+                    
+                        <tr>
+
+                          <td>Año Nuevo Judío</td>
+                          <td>jueves 03 de octubre 2024</td>
+
+
+
+                    
+                        <tr>
+
+                          <td>Año Nuevo Judío</td>
+                          <td>viernes 04 de octubre 2024</td>
+
+
+
+                    
+                        <tr>
+
+                          <td>Día del Perdón - Yom Kipur</td>
+                          <td>sábado 12 de octubre 2024</td>
+
+
+
+                    
+                        </tr>
+
+                </tbody>
+
+              </table>
+
+          </div>
+
+
+
+          <div class="col-md-6">
+
+
+
+            <h4>Feriados turisticos</h4>
+
+
+
+            <tr>
+
+
+
+              <table class="table table-bordered table-hover">
+
+                <thead>
+
+                  <tr>
+
+                    <th>Feriados</th>
+
+                    <th>Fecha</th>
+
+
+
+
+
+                  </tr>
+
+                </thead>
+
+                <tbody>
+
+
+
+                  
+                        <tr>
+
+                          <td><a style="color:black" href="feriado/feriado-puente-1-de-abril-2024">Feriado Puente 1 de abril 2024</a></td>
+
+                          <td> <a style="color:black" href="feriado/feriado-puente-1-de-abril-2024">lunes 01 de abril 2024</a></td>
+
+
+
+                        
+                        </tr>
+
+                </tbody>
+
+              </table>
+
+          </div>
+
+
+
+          <div class="col-md-6">
+
+
+
+            <h4>Feriados trasladables</h4>
+
+
+
+            <tr>
+
+
+
+              <table class="table table-bordered table-hover">
+
+                <thead>
+
+                  <tr>
+
+                    <th>Feriados</th>
+
+                    <th>Fecha</th>
+
+
+
+
+
+                  </tr>
+
+                </thead>
+
+                <tbody>
+
+
+
+                  
+                      <tr>
+
+                        <td><a style="color:black" href="feriado/paso-la-inmortalidad-del-general-martIn-miguel-de-guemes-2024">Paso a la Inmortalidad del General Don Martín Miguel de Güemes</a></td>
+
+                        <td> <a style="color:black" href="feriado/paso-la-inmortalidad-del-general-martIn-miguel-de-guemes-2024">lunes 17 de junio 2024</a></td>
+
+
+
+                    
+                      <tr>
+
+                        <td><a style="color:black" href="feriado/paso-la-inmortalidad-del-general-jose-de-san-martn-2024">Paso a la Inmortalidad del Gral. José de San Martín</a></td>
+
+                        <td> <a style="color:black" href="feriado/paso-la-inmortalidad-del-general-jose-de-san-martn-2024">sábado 17 de agosto 2024</a></td>
+
+
+
+                    
+                      <tr>
+
+                        <td><a style="color:black" href="feriado/dia-del-respeto-la-diversidad-cultural-2024">Día del Respeto a la Diversidad Cultural</a></td>
+
+                        <td> <a style="color:black" href="feriado/dia-del-respeto-la-diversidad-cultural-2024">sábado 12 de octubre 2024</a></td>
+
+
+
+                    
+                      <tr>
+
+                        <td><a style="color:black" href="feriado/dia-de-la-soberania-nacional-2024">Día de la Soberanía Nacional 2024</a></td>
+
+                        <td> <a style="color:black" href="feriado/dia-de-la-soberania-nacional-2024">lunes 18 de noviembre 2024</a></td>
+
+
+
+                    
+                      </tr>
+
+                </tbody>
+
+              </table>
+
+          </div>
+
+
+
+        </div>
+
+
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+
+
+
+  <!-- - - - - -end- - - - -  -->
+
+
+
+
+
+
+
+  <footer id="footer" class="bg-light">
+    <div class="container pt-2 pb-2">
+                <div class="text-center">
+            <div class="copyright">
+                &copy; 2023 Feriados Argentina
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+<script async src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
+<script async src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+
+
+
+
+
+</body>
+
+</html>
+
+
+  </body>
+
+
+
+</html>
+
+
+
+
+
+   <script>
+$(document).ready(function() {
+$("#January-2022").append("<p><a href=feriado/ano-nuevo-2022 id=ano-nuevo-2022 class=link-dark text-decoration-none>01 ene • Año Nuevo</a> </p>");
+$("#January-1-2022").html("<span><a href=feriado/ano-nuevo-2022 id=ano-nuevo-2022-event class=link-light text-decoration-none>1</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#February-2022").append("<p><a href=feriado/lunes-carnaval-2022 id=lunes-carnaval-2022 class=link-dark text-decoration-none>28 feb • Carnaval</a> </p>");
+$("#February-28-2022").html("<span><a href=feriado/lunes-carnaval-2022 id=lunes-carnaval-2022-event class=link-light text-decoration-none>28</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#March-2022").append("<p><a href=feriado/martes-carnaval-2022 id=martes-carnaval-2022 class=link-dark text-decoration-none>01 mar • Carnaval</a> </p>");
+$("#March-1-2022").html("<span><a href=feriado/martes-carnaval-2022 id=martes-carnaval-2022-event class=link-light text-decoration-none>1</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#March-2022").append("<p><a href=feriado/dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2022 id=dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2022 class=link-dark text-decoration-none>24 mar • Día Nacional de la Memoria por la Verdad y la Justicia</a> </p>");
+$("#March-24-2022").html("<span><a href=feriado/dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2022 id=dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2022-event class=link-light text-decoration-none>24</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2022").append("<p><a href=feriado/dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2022 id=dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2022 class=link-dark text-decoration-none>02 abr •  Día del Veterano y de los Caídos en la Guerra de Malvinas</a> </p>");
+$("#April-2-2022").html("<span><a href=feriado/dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2022 id=dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2022-event class=link-light text-decoration-none>2</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2022").append("<p><a href=feriado/jueves-santo-festividad-cristiana-2022 id=jueves-santo-festividad-cristiana-2022 class=link-dark text-decoration-none>06 abr • Jueves Santo Festividad Cristiana</a> </p>");
+$("#April-6-2022").html("<span><a href=feriado/jueves-santo-festividad-cristiana-2022 id=jueves-santo-festividad-cristiana-2022-event class=link-light text-decoration-none>6</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2022").append("<p><a href=feriado/jueves-santo-2022 id=jueves-santo-2022 class=link-dark text-decoration-none>14 abr • Jueves Santo</a> </p>");
+$("#April-14-2022").html("<span><a href=feriado/jueves-santo-2022 id=jueves-santo-2022-event class=link-light text-decoration-none>14</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2022").append("<p><a href=feriado/viernes-santo-2022 id=viernes-santo-2022 class=link-dark text-decoration-none>15 abr • Viernes Santo</a> </p>");
+$("#April-15-2022").html("<span><a href=feriado/viernes-santo-2022 id=viernes-santo-2022-event class=link-light text-decoration-none>15</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2022").append("<p><a href=feriado/pascua-judia-2022-primer-dia id=pascua-judia-2022-primer-dia class=link-dark text-decoration-none>16 abr • Pascua Judía</a> </p>");
+$("#April-16-2022").html("<span><a href=feriado/pascua-judia-2022-primer-dia id=pascua-judia-2022-primer-dia-event class=link-light text-decoration-none>16</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2022").append("<p><a href=feriado/pascua-judia-2022-segundo-dia id=pascua-judia-2022-segundo-dia class=link-dark text-decoration-none>17 abr • Pascua Judía </a> </p>");
+$("#April-17-2022").html("<span><a href=feriado/pascua-judia-2022-segundo-dia id=pascua-judia-2022-segundo-dia-event class=link-light text-decoration-none>17</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2022").append("<p><a href=feriado/pascua-judia-2022-septimo-dia id=pascua-judia-2022-septimo-dia class=link-dark text-decoration-none>22 abr • Pascua Judía</a> </p>");
+$("#April-22-2022").html("<span><a href=feriado/pascua-judia-2022-septimo-dia id=pascua-judia-2022-septimo-dia-event class=link-light text-decoration-none>22</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2022").append("<p><a href=feriado/pascua-judia-2022-ultimo-dia id=pascua-judia-2022-ultimo-dia class=link-dark text-decoration-none>23 abr • Pascua Judía</a> </p>");
+$("#April-23-2022").html("<span><a href=feriado/pascua-judia-2022-ultimo-dia id=pascua-judia-2022-ultimo-dia-event class=link-light text-decoration-none>23</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2022").append("<p><a href=feriado/dia-de-accion-por-la-tolerancia-y-respeto-entre-los-pueblos-2022 id=dia-de-accion-por-la-tolerancia-y-respeto-entre-los-pueblos-2022 class=link-dark text-decoration-none>24 abr • Día de Acción por la tolerancia y respeto entre los pueblos</a> </p>");
+$("#April-24-2022").html("<span><a href=feriado/dia-de-accion-por-la-tolerancia-y-respeto-entre-los-pueblos-2022 id=dia-de-accion-por-la-tolerancia-y-respeto-entre-los-pueblos-2022-event class=link-light text-decoration-none>24</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#May-2022").append("<p><a href=feriado/dia-del-trabajador-2022 id=dia-del-trabajador-2022 class=link-dark text-decoration-none>01 may • Día del Trabajador</a> </p>");
+$("#May-1-2022").html("<span><a href=feriado/dia-del-trabajador-2022 id=dia-del-trabajador-2022-event class=link-light text-decoration-none>1</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#May-2022").append("<p><a href=feriado/fiesta-de-la-ruptura-del-ayuno-del-sagrado-mes-de-ramadan-2022 id=fiesta-de-la-ruptura-del-ayuno-del-sagrado-mes-de-ramadan-2022 class=link-dark text-decoration-none>02 may • Fiesta de la Ruptura del Ayuno del Sagrado Mes de Ramadán (Id al-Fitr)</a> </p>");
+$("#May-2-2022").html("<span><a href=feriado/fiesta-de-la-ruptura-del-ayuno-del-sagrado-mes-de-ramadan-2022 id=fiesta-de-la-ruptura-del-ayuno-del-sagrado-mes-de-ramadan-2022-event class=link-light text-decoration-none>2</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#May-2022").append("<p><a href=feriado/censo-nacional-2022 id=censo-nacional-2022 class=link-dark text-decoration-none>18 may • Censo nacional 2022</a> </p>");
+$("#May-18-2022").html("<span><a href=feriado/censo-nacional-2022 id=censo-nacional-2022-event class=link-light text-decoration-none>18</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#May-2022").append("<p><a href=feriado/dia-de-la-revolucion-de-mayo-2022 id=dia-de-la-revolucion-de-mayo-2022 class=link-dark text-decoration-none>25 may • Día de la Revolución de Mayo</a> </p>");
+$("#May-25-2022").html("<span><a href=feriado/dia-de-la-revolucion-de-mayo-2022 id=dia-de-la-revolucion-de-mayo-2022-event class=link-light text-decoration-none>25</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#June-2022").append("<p><a href=feriado/paso-la-inmortalidad-de-martin-miguel-de-guemes-2022 id=paso-la-inmortalidad-de-martin-miguel-de-guemes-2022 class=link-dark text-decoration-none>17 jun • Paso a la Inmortalidad del Gral. Don Martín Miguel de Güemes</a> </p>");
+$("#June-17-2022").html("<span><a href=feriado/paso-la-inmortalidad-de-martin-miguel-de-guemes-2022 id=paso-la-inmortalidad-de-martin-miguel-de-guemes-2022-event class=link-light text-decoration-none>17</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#June-2022").append("<p><a href=feriado/paso-la-inmortalidad-de-manuel-belgrano-2022 id=paso-la-inmortalidad-de-manuel-belgrano-2022 class=link-dark text-decoration-none>20 jun • Paso a la Inmortalidad del Gral. Manuel Belgrano</a> </p>");
+$("#June-20-2022").html("<span><a href=feriado/paso-la-inmortalidad-de-manuel-belgrano-2022 id=paso-la-inmortalidad-de-manuel-belgrano-2022-event class=link-light text-decoration-none>20</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#July-2022").append("<p><a href=feriado/dia-de-la-independencia-2022 id=dia-de-la-independencia-2022 class=link-dark text-decoration-none>09 jul • Día de la Independencia</a> </p>");
+$("#July-9-2022").html("<span><a href=feriado/dia-de-la-independencia-2022 id=dia-de-la-independencia-2022-event class=link-light text-decoration-none>9</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#July-2022").append("<p><a href=feriado/fiesta-del-sacrificio-2022 id=fiesta-del-sacrificio-2022 class=link-dark text-decoration-none>09 jul • Fiesta del Sacrificio</a> (*)</p>");
+$("#July-9-2022").html("<span><a href=feriado/fiesta-del-sacrificio-2022 id=fiesta-del-sacrificio-2022-event class=link-light text-decoration-none>9</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#July-2022").append("<p><a href=feriado/ano-nuevo-islmico-2022 id=ano-nuevo-islmico-2022 class=link-dark text-decoration-none>30 jul • Año Nuevo Islámico</a> (*)</p>");
+$("#July-30-2022").html("<span><a href=feriado/ano-nuevo-islmico-2022 id=ano-nuevo-islmico-2022-event class=link-light text-decoration-none>30</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#August-2022").append("<p><a href=feriado/paso-la-inmortalidad-del-general-jose-de-san-martin-2022 id=paso-la-inmortalidad-del-general-jose-de-san-martin-2022 class=link-dark text-decoration-none>15 ago • Paso a la Inmortalidad del Gral. José de San Martín</a> </p>");
+$("#August-15-2022").html("<span><a href=feriado/paso-la-inmortalidad-del-general-jose-de-san-martin-2022 id=paso-la-inmortalidad-del-general-jose-de-san-martin-2022-event class=link-light text-decoration-none>15</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#September-2022").append("<p><a href=feriado/ano-nuevo-judio-2022 id=ano-nuevo-judio-2022 class=link-dark text-decoration-none>26 sep • Año Nuevo Judío</a> (*)</p>");
+$("#September-26-2022").html("<span><a href=feriado/ano-nuevo-judio-2022 id=ano-nuevo-judio-2022-event class=link-light text-decoration-none>26</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#September-2022").append("<p><a href=feriado/ano-nuevo-judio-2022 id=ano-nuevo-judio-2022 class=link-dark text-decoration-none>27 sep • Año Nuevo Judío</a> (*)</p>");
+$("#September-27-2022").html("<span><a href=feriado/ano-nuevo-judio-2022 id=ano-nuevo-judio-2022-event class=link-light text-decoration-none>27</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#October-2022").append("<p><a href=feriado/dia-del-perdon-2022 id=dia-del-perdon-2022 class=link-dark text-decoration-none>05 oct • Día del Perdón</a> (*)</p>");
+$("#October-5-2022").html("<span><a href=feriado/dia-del-perdon-2022 id=dia-del-perdon-2022-event class=link-light text-decoration-none>5</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#October-2022").append("<p><a href=feriado/feriado-puente-octubre-2022 id=feriado-puente-octubre-2022 class=link-dark text-decoration-none>07 oct • Feriado Puente, con fines turísticos</a> </p>");
+$("#October-7-2022").html("<span><a href=feriado/feriado-puente-octubre-2022 id=feriado-puente-octubre-2022-event class=link-light text-decoration-none>7</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#October-2022").append("<p><a href=feriado/dia-del-respeto-la-diversidad-cultural-2022 id=dia-del-respeto-la-diversidad-cultural-2022 class=link-dark text-decoration-none>10 oct • Día del Respeto a la Diversidad Cultural</a> </p>");
+$("#October-10-2022").html("<span><a href=feriado/dia-del-respeto-la-diversidad-cultural-2022 id=dia-del-respeto-la-diversidad-cultural-2022-event class=link-light text-decoration-none>10</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#November-2022").append("<p><a href=feriado/dia-de-la-soberania-nacional-2022 id=dia-de-la-soberania-nacional-2022 class=link-dark text-decoration-none>20 nov • Día de la Soberanía Nacional 2022</a> </p>");
+$("#November-20-2022").html("<span><a href=feriado/dia-de-la-soberania-nacional-2022 id=dia-de-la-soberania-nacional-2022-event class=link-light text-decoration-none>20</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#November-2022").append("<p><a href=feriado/feriado-puente-noviembre-2022 id=feriado-puente-noviembre-2022 class=link-dark text-decoration-none>21 nov • Feriado Puente con fines turísticos - 21 de Noviembre 2022</a> </p>");
+$("#November-21-2022").html("<span><a href=feriado/feriado-puente-noviembre-2022 id=feriado-puente-noviembre-2022-event class=link-light text-decoration-none>21</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#December-2022").append("<p><a href=feriado/dia-de-la-virgen-inmaculada-concepcion-de-maria-2022 id=dia-de-la-virgen-inmaculada-concepcion-de-maria-2022 class=link-dark text-decoration-none>08 dic • Día de la Virgen</a> </p>");
+$("#December-8-2022").html("<span><a href=feriado/dia-de-la-virgen-inmaculada-concepcion-de-maria-2022 id=dia-de-la-virgen-inmaculada-concepcion-de-maria-2022-event class=link-light text-decoration-none>8</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#December-2022").append("<p><a href=feriado/feriado-puente-diciembre-2022 id=feriado-puente-diciembre-2022 class=link-dark text-decoration-none>09 dic • Feriado Puente con fines turísticos</a> </p>");
+$("#December-9-2022").html("<span><a href=feriado/feriado-puente-diciembre-2022 id=feriado-puente-diciembre-2022-event class=link-light text-decoration-none>9</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#December-2022").append("<p><a href=feriado/feriado-argentina-campeon-mundial-2022 id=feriado-argentina-campeon-mundial-2022 class=link-dark text-decoration-none>20 dic • Feriado Argentina Campeón Mundial </a> </p>");
+$("#December-20-2022").html("<span><a href=feriado/feriado-argentina-campeon-mundial-2022 id=feriado-argentina-campeon-mundial-2022-event class=link-light text-decoration-none>20</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#December-2022").append("<p><a href=feriado/navidad-2022 id=navidad-2022 class=link-dark text-decoration-none>25 dic • Navidad</a> </p>");
+$("#December-25-2022").html("<span><a href=feriado/navidad-2022 id=navidad-2022-event class=link-light text-decoration-none>25</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#January-2023").append("<p><a href=feriado/ano-nuevo-2023 id=ano-nuevo-2023 class=link-dark text-decoration-none>01 ene • Año nuevo 2023</a> </p>");
+$("#January-1-2023").html("<span><a href=feriado/ano-nuevo-2023 id=ano-nuevo-2023-event class=link-light text-decoration-none>1</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#February-2023").append("<p><a href=feriado/lunes-carnaval-2023 id=lunes-carnaval-2023 class=link-dark text-decoration-none>20 feb • Carnaval </a> </p>");
+$("#February-20-2023").html("<span><a href=feriado/lunes-carnaval-2023 id=lunes-carnaval-2023-event class=link-light text-decoration-none>20</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#February-2023").append("<p><a href=feriado/martes-carnaval-2023 id=martes-carnaval-2023 class=link-dark text-decoration-none>21 feb • Carnaval </a> </p>");
+$("#February-21-2023").html("<span><a href=feriado/martes-carnaval-2023 id=martes-carnaval-2023-event class=link-light text-decoration-none>21</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#March-2023").append("<p><a href=feriado/dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2023 id=dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2023 class=link-dark text-decoration-none>24 mar • Día Nacional de la Memoria por la Verdad y la Justicia</a> </p>");
+$("#March-24-2023").html("<span><a href=feriado/dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2023 id=dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2023-event class=link-light text-decoration-none>24</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2023").append("<p><a href=feriado/dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2023 id=dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2023 class=link-dark text-decoration-none>02 abr • Día del Veterano y de los Caídos en la Guerra de Malvinas</a> </p>");
+$("#April-2-2023").html("<span><a href=feriado/dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2023 id=dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2023-event class=link-light text-decoration-none>2</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2023").append("<p><a href=feriado/jueves-santo-festividad-cristiana-2023 id=jueves-santo-festividad-cristiana-2023 class=link-dark text-decoration-none>06 abr • Jueves Santo Festividad Cristiana</a> </p>");
+$("#April-6-2023").html("<span><a href=feriado/jueves-santo-festividad-cristiana-2023 id=jueves-santo-festividad-cristiana-2023-event class=link-light text-decoration-none>6</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2023").append("<p><a href=feriado/primeros-dos-das-de-la-pascua-judia id=primeros-dos-das-de-la-pascua-judia class=link-dark text-decoration-none>06 abr • Primeros dos días de la Pascua Judía </a> (*)</p>");
+$("#April-6-2023").html("<span><a href=feriado/primeros-dos-das-de-la-pascua-judia id=primeros-dos-das-de-la-pascua-judia-event class=link-light text-decoration-none>6</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2023").append("<p><a href=feriado/viernes-santo-2023 id=viernes-santo-2023 class=link-dark text-decoration-none>07 abr • Viernes Santo 2023</a> </p>");
+$("#April-7-2023").html("<span><a href=feriado/viernes-santo-2023 id=viernes-santo-2023-event class=link-light text-decoration-none>7</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2023").append("<p><a href=feriado/primeros-dos-das-de-la-pascua-judia-2023 id=primeros-dos-das-de-la-pascua-judia-2023 class=link-dark text-decoration-none>07 abr • Primeros dos días de la Pascua Judía </a> (*)</p>");
+$("#April-7-2023").html("<span><a href=feriado/primeros-dos-das-de-la-pascua-judia-2023 id=primeros-dos-das-de-la-pascua-judia-2023-event class=link-light text-decoration-none>7</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2023").append("<p><a href=feriado/utimos-dos-das-de-la-pascua-judia id=utimos-dos-das-de-la-pascua-judia class=link-dark text-decoration-none>12 abr •  Últimos dos días de la Pascua Judía</a> (*)</p>");
+$("#April-12-2023").html("<span><a href=feriado/utimos-dos-das-de-la-pascua-judia id=utimos-dos-das-de-la-pascua-judia-event class=link-light text-decoration-none>12</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2023").append("<p><a href=feriado/utimos-dos-das-de-la-pascua-judia-2023 id=utimos-dos-das-de-la-pascua-judia-2023 class=link-dark text-decoration-none>13 abr • Últimos dos días de la Pascua Judía</a> (*)</p>");
+$("#April-13-2023").html("<span><a href=feriado/utimos-dos-das-de-la-pascua-judia-2023 id=utimos-dos-das-de-la-pascua-judia-2023-event class=link-light text-decoration-none>13</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2023").append("<p><a href=feriado/fiesta-de-la-ruptura-del-ayuno-del-sagrado-mes-de-ramadan-2023 id=fiesta-de-la-ruptura-del-ayuno-del-sagrado-mes-de-ramadan-2023 class=link-dark text-decoration-none>21 abr • Fiesta de la Ruptura del Ayuno del Sagrado Mes de Ramadán</a> (*)</p>");
+$("#April-21-2023").html("<span><a href=feriado/fiesta-de-la-ruptura-del-ayuno-del-sagrado-mes-de-ramadan-2023 id=fiesta-de-la-ruptura-del-ayuno-del-sagrado-mes-de-ramadan-2023-event class=link-light text-decoration-none>21</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2023").append("<p><a href=feriado/dia-de-accion-por-la-tolerancia-y-el-respeto-entre-los-pueblos-2023 id=dia-de-accion-por-la-tolerancia-y-el-respeto-entre-los-pueblos-2023 class=link-dark text-decoration-none>24 abr •  Día de acción por la tolerancia y el respeto entre los pueblos</a> (*)</p>");
+$("#April-24-2023").html("<span><a href=feriado/dia-de-accion-por-la-tolerancia-y-el-respeto-entre-los-pueblos-2023 id=dia-de-accion-por-la-tolerancia-y-el-respeto-entre-los-pueblos-2023-event class=link-light text-decoration-none>24</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#May-2023").append("<p><a href=feriado/dia-del-trabajador-2023 id=dia-del-trabajador-2023 class=link-dark text-decoration-none>01 may • Día del Trabajador</a> </p>");
+$("#May-1-2023").html("<span><a href=feriado/dia-del-trabajador-2023 id=dia-del-trabajador-2023-event class=link-light text-decoration-none>1</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#May-2023").append("<p><a href=feriado/dia-de-la-revolucion-de-mayo-2023 id=dia-de-la-revolucion-de-mayo-2023 class=link-dark text-decoration-none>25 may • Día de la Revolución de Mayo</a> </p>");
+$("#May-25-2023").html("<span><a href=feriado/dia-de-la-revolucion-de-mayo-2023 id=dia-de-la-revolucion-de-mayo-2023-event class=link-light text-decoration-none>25</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#May-2023").append("<p><a href=feriado/puente-turstico-mayo-2023-2023 id=puente-turstico-mayo-2023-2023 class=link-dark text-decoration-none>26 may • Puente Turístico Mayo 2023</a> </p>");
+$("#May-26-2023").html("<span><a href=feriado/puente-turstico-mayo-2023-2023 id=puente-turstico-mayo-2023-2023-event class=link-light text-decoration-none>26</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#June-2023").append("<p><a href=feriado/paso-la-inmortalidad-del-general-don-martn-miguel-de-gemes-2023 id=paso-la-inmortalidad-del-general-don-martn-miguel-de-gemes-2023 class=link-dark text-decoration-none>17 jun • Paso a la Inmortalidad del General Don Martín Miguel de Güemes</a> </p>");
+$("#June-17-2023").html("<span><a href=feriado/paso-la-inmortalidad-del-general-don-martn-miguel-de-gemes-2023 id=paso-la-inmortalidad-del-general-don-martn-miguel-de-gemes-2023-event class=link-light text-decoration-none>17</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#June-2023").append("<p><a href=feriado/feriado-puente-junio-2023-2023 id=feriado-puente-junio-2023-2023 class=link-dark text-decoration-none>19 jun • Feriado Puente Junio 2023</a> </p>");
+$("#June-19-2023").html("<span><a href=feriado/feriado-puente-junio-2023-2023 id=feriado-puente-junio-2023-2023-event class=link-light text-decoration-none>19</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#June-2023").append("<p><a href=feriado/dia-de-la-bandera-2023 id=dia-de-la-bandera-2023 class=link-dark text-decoration-none>20 jun • Día de la Bandera</a> </p>");
+$("#June-20-2023").html("<span><a href=feriado/dia-de-la-bandera-2023 id=dia-de-la-bandera-2023-event class=link-light text-decoration-none>20</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#June-2023").append("<p><a href=feriado/fiesta-del-sacrificio-2023 id=fiesta-del-sacrificio-2023 class=link-dark text-decoration-none>28 jun • Fiesta del Sacrificio</a> (*)</p>");
+$("#June-28-2023").html("<span><a href=feriado/fiesta-del-sacrificio-2023 id=fiesta-del-sacrificio-2023-event class=link-light text-decoration-none>28</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#July-2023").append("<p><a href=feriado/dia-de-la-independencia-2023 id=dia-de-la-independencia-2023 class=link-dark text-decoration-none>09 jul • Día de la Independencia</a> </p>");
+$("#July-9-2023").html("<span><a href=feriado/dia-de-la-independencia-2023 id=dia-de-la-independencia-2023-event class=link-light text-decoration-none>9</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#July-2023").append("<p><a href=feriado/ano-nuevo-islmico-2023 id=ano-nuevo-islmico-2023 class=link-dark text-decoration-none>19 jul • Año Nuevo Islámico</a> (*)</p>");
+$("#July-19-2023").html("<span><a href=feriado/ano-nuevo-islmico-2023 id=ano-nuevo-islmico-2023-event class=link-light text-decoration-none>19</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#August-2023").append("<p><a href=feriado/paso-la-inmortalidad-del-gral-jose-de-san-martin id=paso-la-inmortalidad-del-gral-jose-de-san-martin class=link-dark text-decoration-none>21 ago • Paso a la Inmortalidad del Gral. José de San Martín</a> </p>");
+$("#August-21-2023").html("<span><a href=feriado/paso-la-inmortalidad-del-gral-jose-de-san-martin id=paso-la-inmortalidad-del-gral-jose-de-san-martin-event class=link-light text-decoration-none>21</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#September-2023").append("<p><a href=feriado/ano-nuevo-judio id=ano-nuevo-judio class=link-dark text-decoration-none>16 sep • Año Nuevo Judío</a> (*)</p>");
+$("#September-16-2023").html("<span><a href=feriado/ano-nuevo-judio id=ano-nuevo-judio-event class=link-light text-decoration-none>16</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#September-2023").append("<p><a href=feriado/ano-nuevo-judio-2023 id=ano-nuevo-judio-2023 class=link-dark text-decoration-none>17 sep •  Año Nuevo Judío</a> (*)</p>");
+$("#September-17-2023").html("<span><a href=feriado/ano-nuevo-judio-2023 id=ano-nuevo-judio-2023-event class=link-light text-decoration-none>17</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#September-2023").append("<p><a href=feriado/dia-del-perdon-2023 id=dia-del-perdon-2023 class=link-dark text-decoration-none>25 sep • Día del Perdón</a> (*)</p>");
+$("#September-25-2023").html("<span><a href=feriado/dia-del-perdon-2023 id=dia-del-perdon-2023-event class=link-light text-decoration-none>25</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#October-2023").append("<p><a href=feriado/feriado-puente-octubre-2023-2023 id=feriado-puente-octubre-2023-2023 class=link-dark text-decoration-none>13 oct • Feriado puente Octubre 2023</a> </p>");
+$("#October-13-2023").html("<span><a href=feriado/feriado-puente-octubre-2023-2023 id=feriado-puente-octubre-2023-2023-event class=link-light text-decoration-none>13</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#October-2023").append("<p><a href=feriado/dia-del-respeto-la-diversidad-cultural-2023 id=dia-del-respeto-la-diversidad-cultural-2023 class=link-dark text-decoration-none>16 oct • Día del Respeto a la Diversidad Cultural</a> </p>");
+$("#October-16-2023").html("<span><a href=feriado/dia-del-respeto-la-diversidad-cultural-2023 id=dia-del-respeto-la-diversidad-cultural-2023-event class=link-light text-decoration-none>16</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#November-2023").append("<p><a href=feriado/dia-de-la-soberania-nacional-2023 id=dia-de-la-soberania-nacional-2023 class=link-dark text-decoration-none>20 nov • Día de la Soberanía Nacional 2023</a> </p>");
+$("#November-20-2023").html("<span><a href=feriado/dia-de-la-soberania-nacional-2023 id=dia-de-la-soberania-nacional-2023-event class=link-light text-decoration-none>20</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#December-2023").append("<p><a href=feriado/dia-de-la-inmaculada-concepcion-de-maria-2023 id=dia-de-la-inmaculada-concepcion-de-maria-2023 class=link-dark text-decoration-none>08 dic • Día de la Virgen</a> </p>");
+$("#December-8-2023").html("<span><a href=feriado/dia-de-la-inmaculada-concepcion-de-maria-2023 id=dia-de-la-inmaculada-concepcion-de-maria-2023-event class=link-light text-decoration-none>8</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#December-2023").append("<p><a href=feriado/navidad-2023 id=navidad-2023 class=link-dark text-decoration-none>25 dic • Navidad 2023</a> </p>");
+$("#December-25-2023").html("<span><a href=feriado/navidad-2023 id=navidad-2023-event class=link-light text-decoration-none>25</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#January-2024").append("<p><a href=feriado/ano-nuevo-2024 id=ano-nuevo-2024 class=link-dark text-decoration-none>01 ene • Año nuevo 2024</a> </p>");
+$("#January-1-2024").html("<span><a href=feriado/ano-nuevo-2024 id=ano-nuevo-2024-event class=link-light text-decoration-none>1</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#February-2024").append("<p><a href=feriado/lunes-carnaval-2024 id=lunes-carnaval-2024 class=link-dark text-decoration-none>12 feb • Carnaval 2024</a> </p>");
+$("#February-12-2024").html("<span><a href=feriado/lunes-carnaval-2024 id=lunes-carnaval-2024-event class=link-light text-decoration-none>12</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#February-2024").append("<p><a href=feriado/martes-carnaval-2024 id=martes-carnaval-2024 class=link-dark text-decoration-none>13 feb • Carnaval 2024</a> </p>");
+$("#February-13-2024").html("<span><a href=feriado/martes-carnaval-2024 id=martes-carnaval-2024-event class=link-light text-decoration-none>13</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#March-2024").append("<p><a href=feriado/dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2024 id=dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2024 class=link-dark text-decoration-none>24 mar • Día Nacional de la Memoria por la Verdad y la Justicia</a> </p>");
+$("#March-24-2024").html("<span><a href=feriado/dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2024 id=dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2024-event class=link-light text-decoration-none>24</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#March-2024").append("<p>28 mar • Jueves Santo 2024</p>");
+$("#March-28-2024").html("<span>28</span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#March-2024").append("<p><a href=feriado/viernes-santo-2024 id=viernes-santo-2024 class=link-dark text-decoration-none>29 mar • Viernes Santo 2024</a> </p>");
+$("#March-29-2024").html("<span><a href=feriado/viernes-santo-2024 id=viernes-santo-2024-event class=link-light text-decoration-none>29</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2024").append("<p><a href=feriado/feriado-puente-1-de-abril-2024 id=feriado-puente-1-de-abril-2024 class=link-dark text-decoration-none>01 abr • Feriado Puente 1 de abril 2024</a> </p>");
+$("#April-1-2024").html("<span><a href=feriado/feriado-puente-1-de-abril-2024 id=feriado-puente-1-de-abril-2024-event class=link-light text-decoration-none>1</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2024").append("<p><a href=feriado/dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2024 id=dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2024 class=link-dark text-decoration-none>02 abr • Día del Veterano y de los Caídos en la Guerra de Malvinas</a> </p>");
+$("#April-2-2024").html("<span><a href=feriado/dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2024 id=dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2024-event class=link-light text-decoration-none>2</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2024").append("<p>10 abr • Fiesta de la Ruptura del Ayuno del Sagrado Mes de Ramadán (Id al-Fitr) (*)</p>");
+$("#April-10-2024").html("<span>10</span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#April-2024").append("<p>24 abr • Día de acción por la tolerancia y el respeto entre los pueblos(*)</p>");
+$("#April-24-2024").html("<span>24</span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#May-2024").append("<p><a href=feriado/dia-del-trabajador-2024 id=dia-del-trabajador-2024 class=link-dark text-decoration-none>01 may • Día del Trabajador</a> </p>");
+$("#May-1-2024").html("<span><a href=feriado/dia-del-trabajador-2024 id=dia-del-trabajador-2024-event class=link-light text-decoration-none>1</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#May-2024").append("<p><a href=feriado/dia-de-la-revolucion-de-mayo-2024 id=dia-de-la-revolucion-de-mayo-2024 class=link-dark text-decoration-none>25 may • Día de la Revolución de Mayo</a> </p>");
+$("#May-25-2024").html("<span><a href=feriado/dia-de-la-revolucion-de-mayo-2024 id=dia-de-la-revolucion-de-mayo-2024-event class=link-light text-decoration-none>25</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#June-2024").append("<p><a href=feriado/paso-la-inmortalidad-del-general-martIn-miguel-de-guemes-2024 id=paso-la-inmortalidad-del-general-martIn-miguel-de-guemes-2024 class=link-dark text-decoration-none>17 jun • Paso a la Inmortalidad del General Don Martín Miguel de Güemes</a> </p>");
+$("#June-17-2024").html("<span><a href=feriado/paso-la-inmortalidad-del-general-martIn-miguel-de-guemes-2024 id=paso-la-inmortalidad-del-general-martIn-miguel-de-guemes-2024-event class=link-light text-decoration-none>17</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#June-2024").append("<p><a href=feriado/dia-de-la-bandera-2024 id=dia-de-la-bandera-2024 class=link-dark text-decoration-none>20 jun • Día de la Bandera</a> </p>");
+$("#June-20-2024").html("<span><a href=feriado/dia-de-la-bandera-2024 id=dia-de-la-bandera-2024-event class=link-light text-decoration-none>20</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#July-2024").append("<p>07 jul • Año Nuevo Islámico(*)</p>");
+$("#July-7-2024").html("<span>7</span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#July-2024").append("<p><a href=feriado/dia-de-la-independencia-2024 id=dia-de-la-independencia-2024 class=link-dark text-decoration-none>09 jul • Día de la Independencia</a> </p>");
+$("#July-9-2024").html("<span><a href=feriado/dia-de-la-independencia-2024 id=dia-de-la-independencia-2024-event class=link-light text-decoration-none>9</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#August-2024").append("<p><a href=feriado/paso-la-inmortalidad-del-general-jose-de-san-martn-2024 id=paso-la-inmortalidad-del-general-jose-de-san-martn-2024 class=link-dark text-decoration-none>17 ago • Paso a la Inmortalidad del Gral. José de San Martín</a> </p>");
+$("#August-17-2024").html("<span><a href=feriado/paso-la-inmortalidad-del-general-jose-de-san-martn-2024 id=paso-la-inmortalidad-del-general-jose-de-san-martn-2024-event class=link-light text-decoration-none>17</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#October-2024").append("<p>03 oct • Año Nuevo Judío(*)</p>");
+$("#October-3-2024").html("<span>3</span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#October-2024").append("<p>04 oct • Año Nuevo Judío(*)</p>");
+$("#October-4-2024").html("<span>4</span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#October-2024").append("<p><a href=feriado/dia-del-respeto-la-diversidad-cultural-2024 id=dia-del-respeto-la-diversidad-cultural-2024 class=link-dark text-decoration-none>12 oct • Día del Respeto a la Diversidad Cultural</a> </p>");
+$("#October-12-2024").html("<span><a href=feriado/dia-del-respeto-la-diversidad-cultural-2024 id=dia-del-respeto-la-diversidad-cultural-2024-event class=link-light text-decoration-none>12</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#October-2024").append("<p>12 oct • Día del Perdón - Yom Kipur(*)</p>");
+$("#October-12-2024").html("<span>12</span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#November-2024").append("<p><a href=feriado/dia-de-la-soberania-nacional-2024 id=dia-de-la-soberania-nacional-2024 class=link-dark text-decoration-none>18 nov • Día de la Soberanía Nacional 2024</a> </p>");
+$("#November-18-2024").html("<span><a href=feriado/dia-de-la-soberania-nacional-2024 id=dia-de-la-soberania-nacional-2024-event class=link-light text-decoration-none>18</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#December-2024").append("<p><a href=feriado/dia-de-la-inmaculada-concepcion-de-maria-2024 id=dia-de-la-inmaculada-concepcion-de-maria-2024 class=link-dark text-decoration-none>08 dic • Día de la Virgen</a> </p>");
+$("#December-8-2024").html("<span><a href=feriado/dia-de-la-inmaculada-concepcion-de-maria-2024 id=dia-de-la-inmaculada-concepcion-de-maria-2024-event class=link-light text-decoration-none>8</a></span>");
+});
+</script>   <script>
+$(document).ready(function() {
+$("#December-2024").append("<p><a href=feriado/navidad-2024 id=navidad-2024 class=link-dark text-decoration-none>25 dic • Navidad 2024</a> </p>");
+$("#December-25-2024").html("<span><a href=feriado/navidad-2024 id=navidad-2024-event class=link-light text-decoration-none>25</a></span>");
+});
+</script>
