@@ -3,7 +3,7 @@
 pkgs.mkShell {
     buildInputs = with pkgs; [
         poetry
-	gnumake
+        gnumake
     ];
 
   LD_LIBRARY_PATH = "${pkgs.stdenv.cc.cc.lib}/lib";
