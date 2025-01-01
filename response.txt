@@ -8,7 +8,7 @@
 <html lang="es">
 
 <head>
-  <title>Feriados Argentina 2024</title><meta name='description' content='Calendario completo de feriados, feriados puentes y dias no laborables, mes por mes en Argentina 2024. '/><meta name='keywords' content='Feriados Nacionales, Boletín Oficial, Próximo feriado, Argentina, Feriados, feriados puente, feriados argentina.gob.ar, 2024'/>
+  <title>Feriados Argentina 2025</title><meta name='description' content='Calendario completo de feriados, feriados puentes y dias no laborables, mes por mes en Argentina 2025. '/><meta name='keywords' content='Feriados Nacionales, Boletín Oficial, Próximo feriado, Argentina, Feriados, feriados puente, feriados argentina.gob.ar, 2025'/>
   <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width">
   <meta name="google-adsense-account" content="ca-pub-9550898103974856">
@@ -128,7 +128,7 @@
 
       <div class="col-md-9 text-center">
 
-        <h1 class="fs-1">Feriados 2024 Argentina</h1>
+        <h1 class="fs-1">Feriados 2025 Argentina</h1>
 
       </div>
 
@@ -251,7 +251,7 @@
 
 
 
-        <div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='enero-2024/' class='link-light text-decoration-none'>enero 2024</a></span></ul></li></div>
+        <div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='enero-2025/' class='link-light text-decoration-none'>enero 2025</a></span></ul></li></div>
 
             <table class='table table-striped text-center' role='presentation'>
 
@@ -273,7 +273,7 @@
 
             <td aria-hidden='true' class='text-center dias'>Dom</td>
 
-          </tr><td id='January-1-2024' style='background-color:#0072bb; color:#fff;'>1</td><td id='January-2-2024'>2</td><td id='January-3-2024'>3</td><td id='January-4-2024'>4</td><td id='January-5-2024'>5</td><td id='January-6-2024'>6</td><td id='January-7-2024'>7</td></tr><td id='January-8-2024'>8</td><td id='January-9-2024'>9</td><td id='January-10-2024'>10</td><td id='January-11-2024'>11</td><td id='January-12-2024'>12</td><td id='January-13-2024'>13</td><td id='January-14-2024'>14</td></tr><td id='January-15-2024'>15</td><td id='January-16-2024'>16</td><td id='January-17-2024'>17</td><td id='January-18-2024'>18</td><td id='January-19-2024'>19</td><td id='January-20-2024'>20</td><td id='January-21-2024'>21</td></tr><td id='January-22-2024'>22</td><td id='January-23-2024'>23</td><td id='January-24-2024'>24</td><td id='January-25-2024'>25</td><td id='January-26-2024'>26</td><td id='January-27-2024'>27</td><td id='January-28-2024'>28</td></tr><td id='January-29-2024'>29</td><td id='January-30-2024'>30</td><td id='January-31-2024'>31</td><td></td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='January-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='febrero-2024/' class='link-light text-decoration-none'>febrero 2024</a></span></ul></li></div>
+          </tr><td> </td><td> </td><td id='January-1-2025' style='background-color:#0072bb; color:#fff;'>1</td><td id='January-2-2025'>2</td><td id='January-3-2025'>3</td><td id='January-4-2025'>4</td><td id='January-5-2025'>5</td></tr><td id='January-6-2025'>6</td><td id='January-7-2025'>7</td><td id='January-8-2025'>8</td><td id='January-9-2025'>9</td><td id='January-10-2025'>10</td><td id='January-11-2025'>11</td><td id='January-12-2025'>12</td></tr><td id='January-13-2025'>13</td><td id='January-14-2025'>14</td><td id='January-15-2025'>15</td><td id='January-16-2025'>16</td><td id='January-17-2025'>17</td><td id='January-18-2025'>18</td><td id='January-19-2025'>19</td></tr><td id='January-20-2025'>20</td><td id='January-21-2025'>21</td><td id='January-22-2025'>22</td><td id='January-23-2025'>23</td><td id='January-24-2025'>24</td><td id='January-25-2025'>25</td><td id='January-26-2025'>26</td></tr><td id='January-27-2025'>27</td><td id='January-28-2025'>28</td><td id='January-29-2025'>29</td><td id='January-30-2025'>30</td><td id='January-31-2025'>31</td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='January-2025'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='febrero-2025/' class='link-light text-decoration-none'>febrero 2025</a></span></ul></li></div>
 
             <table class='table table-striped text-center' role='presentation'>
 
@@ -295,7 +295,7 @@
 
             <td aria-hidden='true' class='text-center dias'>Dom</td>
 
-          </tr><td> </td><td> </td><td> </td><td id='February-1-2024'>1</td><td id='February-2-2024'>2</td><td id='February-3-2024'>3</td><td id='February-4-2024'>4</td></tr><td id='February-5-2024'>5</td><td id='February-6-2024'>6</td><td id='February-7-2024'>7</td><td id='February-8-2024'>8</td><td id='February-9-2024'>9</td><td id='February-10-2024'>10</td><td id='February-11-2024'>11</td></tr><td id='February-12-2024' style='background-color:#0072bb; color:#fff;'>12</td><td id='February-13-2024' style='background-color:#0072bb; color:#fff;'>13</td><td id='February-14-2024'>14</td><td id='February-15-2024'>15</td><td id='February-16-2024'>16</td><td id='February-17-2024'>17</td><td id='February-18-2024'>18</td></tr><td id='February-19-2024'>19</td><td id='February-20-2024'>20</td><td id='February-21-2024'>21</td><td id='February-22-2024'>22</td><td id='February-23-2024'>23</td><td id='February-24-2024'>24</td><td id='February-25-2024'>25</td></tr><td id='February-26-2024'>26</td><td id='February-27-2024'>27</td><td id='February-28-2024'>28</td><td id='February-29-2024'>29</td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='February-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='marzo-2024/' class='link-light text-decoration-none'>marzo 2024</a></span></ul></li></div>
+          </tr><td> </td><td> </td><td> </td><td> </td><td> </td><td id='February-1-2025'>1</td><td id='February-2-2025'>2</td></tr><td id='February-3-2025'>3</td><td id='February-4-2025'>4</td><td id='February-5-2025'>5</td><td id='February-6-2025'>6</td><td id='February-7-2025'>7</td><td id='February-8-2025'>8</td><td id='February-9-2025'>9</td></tr><td id='February-10-2025'>10</td><td id='February-11-2025'>11</td><td id='February-12-2025'>12</td><td id='February-13-2025'>13</td><td id='February-14-2025'>14</td><td id='February-15-2025'>15</td><td id='February-16-2025'>16</td></tr><td id='February-17-2025'>17</td><td id='February-18-2025'>18</td><td id='February-19-2025'>19</td><td id='February-20-2025'>20</td><td id='February-21-2025'>21</td><td id='February-22-2025'>22</td><td id='February-23-2025'>23</td></tr><td id='February-24-2025'>24</td><td id='February-25-2025'>25</td><td id='February-26-2025'>26</td><td id='February-27-2025'>27</td><td id='February-28-2025'>28</td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='February-2025'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='marzo-2025/' class='link-light text-decoration-none'>marzo 2025</a></span></ul></li></div>
 
             <table class='table table-striped text-center' role='presentation'>
 
@@ -317,7 +317,7 @@
 
             <td aria-hidden='true' class='text-center dias'>Dom</td>
 
-          </tr><td> </td><td> </td><td> </td><td> </td><td id='March-1-2024'>1</td><td id='March-2-2024'>2</td><td id='March-3-2024'>3</td></tr><td id='March-4-2024'>4</td><td id='March-5-2024'>5</td><td id='March-6-2024'>6</td><td id='March-7-2024'>7</td><td id='March-8-2024'>8</td><td id='March-9-2024'>9</td><td id='March-10-2024'>10</td></tr><td id='March-11-2024'>11</td><td id='March-12-2024'>12</td><td id='March-13-2024'>13</td><td id='March-14-2024'>14</td><td id='March-15-2024'>15</td><td id='March-16-2024'>16</td><td id='March-17-2024'>17</td></tr><td id='March-18-2024'>18</td><td id='March-19-2024'>19</td><td id='March-20-2024'>20</td><td id='March-21-2024'>21</td><td id='March-22-2024'>22</td><td id='March-23-2024'>23</td><td id='March-24-2024' style='background-color:#0072bb; color:#fff;'>24</td></tr><td id='March-25-2024'>25</td><td id='March-26-2024'>26</td><td id='March-27-2024'>27</td><td id='March-28-2024' style='background-color:#595959; color:#fff;'>28</td><td id='March-29-2024' style='background-color:#0072bb; color:#fff;'>29</td><td id='March-30-2024'>30</td><td id='March-31-2024'>31</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='March-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='abril-2024/' class='link-light text-decoration-none'>abril 2024</a></span></ul></li></div>
+          </tr><td> </td><td> </td><td> </td><td> </td><td> </td><td id='March-1-2025'>1</td><td id='March-2-2025'>2</td></tr><td id='March-3-2025' style='background-color:#0072bb; color:#fff;'>3</td><td id='March-4-2025' style='background-color:#0072bb; color:#fff;'>4</td><td id='March-5-2025'>5</td><td id='March-6-2025'>6</td><td id='March-7-2025'>7</td><td id='March-8-2025'>8</td><td id='March-9-2025'>9</td></tr><td id='March-10-2025'>10</td><td id='March-11-2025'>11</td><td id='March-12-2025'>12</td><td id='March-13-2025'>13</td><td id='March-14-2025'>14</td><td id='March-15-2025'>15</td><td id='March-16-2025'>16</td></tr><td id='March-17-2025'>17</td><td id='March-18-2025'>18</td><td id='March-19-2025'>19</td><td id='March-20-2025'>20</td><td id='March-21-2025'>21</td><td id='March-22-2025'>22</td><td id='March-23-2025'>23</td></tr><td id='March-24-2025' style='background-color:#0072bb; color:#fff;'>24</td><td id='March-25-2025'>25</td><td id='March-26-2025'>26</td><td id='March-27-2025'>27</td><td id='March-28-2025'>28</td><td id='March-29-2025'>29</td><td id='March-30-2025'>30</td></tr><td id='March-31-2025' style='background-color:#595959; color:#fff;'>31</td><td></td><td></td><td></td><td></td><td></td><td></td></tbody></table><div class='lista' id='March-2025'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='abril-2025/' class='link-light text-decoration-none'>abril 2025</a></span></ul></li></div>
 
             <table class='table table-striped text-center' role='presentation'>
 
@@ -339,7 +339,7 @@
 
             <td aria-hidden='true' class='text-center dias'>Dom</td>
 
-          </tr><td id='April-1-2024' style='background-color:#6a1b99; color:#fff;'>1</td><td id='April-2-2024' style='background-color:#0072bb; color:#fff;'>2</td><td id='April-3-2024'>3</td><td id='April-4-2024'>4</td><td id='April-5-2024'>5</td><td id='April-6-2024'>6</td><td id='April-7-2024'>7</td></tr><td id='April-8-2024'>8</td><td id='April-9-2024'>9</td><td id='April-10-2024'>10</td><td id='April-11-2024'>11</td><td id='April-12-2024'>12</td><td id='April-13-2024'>13</td><td id='April-14-2024'>14</td></tr><td id='April-15-2024'>15</td><td id='April-16-2024'>16</td><td id='April-17-2024'>17</td><td id='April-18-2024'>18</td><td id='April-19-2024'>19</td><td id='April-20-2024'>20</td><td id='April-21-2024' style='background-color:#595959; color:#fff;'>21</td></tr><td id='April-22-2024'>22</td><td id='April-23-2024' style='background-color:#595959; color:#fff;'>23</td><td id='April-24-2024' style='background-color:#595959; color:#fff;'>24</td><td id='April-25-2024'>25</td><td id='April-26-2024'>26</td><td id='April-27-2024'>27</td><td id='April-28-2024'>28</td></tr><td id='April-29-2024' style='background-color:#595959; color:#fff;'>29</td><td id='April-30-2024' style='background-color:#595959; color:#fff;'>30</td><td></td><td></td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='April-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='mayo-2024/' class='link-light text-decoration-none'>mayo 2024</a></span></ul></li></div>
+          </tr><td> </td><td id='April-1-2025'>1</td><td id='April-2-2025' style='background-color:#0072bb; color:#fff;'>2</td><td id='April-3-2025'>3</td><td id='April-4-2025'>4</td><td id='April-5-2025'>5</td><td id='April-6-2025'>6</td></tr><td id='April-7-2025'>7</td><td id='April-8-2025'>8</td><td id='April-9-2025'>9</td><td id='April-10-2025'>10</td><td id='April-11-2025'>11</td><td id='April-12-2025'>12</td><td id='April-13-2025' style='background-color:#595959; color:#fff;'>13</td></tr><td id='April-14-2025' style='background-color:#595959; color:#fff;'>14</td><td id='April-15-2025'>15</td><td id='April-16-2025'>16</td><td id='April-17-2025' style='background-color:#595959; color:#fff;'>17</td><td id='April-18-2025' style='background-color:#0072bb; color:#fff;'>18</td><td id='April-19-2025' style='background-color:#595959; color:#fff;'>19</td><td id='April-20-2025' style='background-color:#595959; color:#fff;'>20</td></tr><td id='April-21-2025'>21</td><td id='April-22-2025'>22</td><td id='April-23-2025'>23</td><td id='April-24-2025' style='background-color:#595959; color:#fff;'>24</td><td id='April-25-2025'>25</td><td id='April-26-2025'>26</td><td id='April-27-2025'>27</td></tr><td id='April-28-2025'>28</td><td id='April-29-2025'>29</td><td id='April-30-2025'>30</td><td></td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='April-2025'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='mayo-2025/' class='link-light text-decoration-none'>mayo 2025</a></span></ul></li></div>
 
             <table class='table table-striped text-center' role='presentation'>
 
@@ -361,7 +361,7 @@
 
             <td aria-hidden='true' class='text-center dias'>Dom</td>
 
-          </tr><td> </td><td> </td><td id='May-1-2024' style='background-color:#0072bb; color:#fff;'>1</td><td id='May-2-2024'>2</td><td id='May-3-2024'>3</td><td id='May-4-2024'>4</td><td id='May-5-2024'>5</td></tr><td id='May-6-2024'>6</td><td id='May-7-2024'>7</td><td id='May-8-2024'>8</td><td id='May-9-2024'>9</td><td id='May-10-2024'>10</td><td id='May-11-2024'>11</td><td id='May-12-2024'>12</td></tr><td id='May-13-2024'>13</td><td id='May-14-2024'>14</td><td id='May-15-2024'>15</td><td id='May-16-2024'>16</td><td id='May-17-2024'>17</td><td id='May-18-2024'>18</td><td id='May-19-2024'>19</td></tr><td id='May-20-2024'>20</td><td id='May-21-2024'>21</td><td id='May-22-2024'>22</td><td id='May-23-2024'>23</td><td id='May-24-2024'>24</td><td id='May-25-2024' style='background-color:#0072bb; color:#fff;'>25</td><td id='May-26-2024'>26</td></tr><td id='May-27-2024'>27</td><td id='May-28-2024'>28</td><td id='May-29-2024'>29</td><td id='May-30-2024'>30</td><td id='May-31-2024'>31</td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='May-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='junio-2024/' class='link-light text-decoration-none'>junio 2024</a></span></ul></li></div>
+          </tr><td> </td><td> </td><td> </td><td id='May-1-2025' style='background-color:#0072bb; color:#fff;'>1</td><td id='May-2-2025' style='background-color:#6a1b99; color:#fff;'>2</td><td id='May-3-2025'>3</td><td id='May-4-2025'>4</td></tr><td id='May-5-2025'>5</td><td id='May-6-2025'>6</td><td id='May-7-2025'>7</td><td id='May-8-2025'>8</td><td id='May-9-2025'>9</td><td id='May-10-2025'>10</td><td id='May-11-2025'>11</td></tr><td id='May-12-2025'>12</td><td id='May-13-2025'>13</td><td id='May-14-2025'>14</td><td id='May-15-2025'>15</td><td id='May-16-2025'>16</td><td id='May-17-2025'>17</td><td id='May-18-2025'>18</td></tr><td id='May-19-2025'>19</td><td id='May-20-2025'>20</td><td id='May-21-2025'>21</td><td id='May-22-2025'>22</td><td id='May-23-2025'>23</td><td id='May-24-2025'>24</td><td id='May-25-2025' style='background-color:#0072bb; color:#fff;'>25</td></tr><td id='May-26-2025'>26</td><td id='May-27-2025'>27</td><td id='May-28-2025'>28</td><td id='May-29-2025'>29</td><td id='May-30-2025'>30</td><td id='May-31-2025'>31</td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='May-2025'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='junio-2025/' class='link-light text-decoration-none'>junio 2025</a></span></ul></li></div>
 
             <table class='table table-striped text-center' role='presentation'>
 
@@ -383,7 +383,7 @@
 
             <td aria-hidden='true' class='text-center dias'>Dom</td>
 
-          </tr><td> </td><td> </td><td> </td><td> </td><td> </td><td id='June-1-2024'>1</td><td id='June-2-2024'>2</td></tr><td id='June-3-2024'>3</td><td id='June-4-2024'>4</td><td id='June-5-2024'>5</td><td id='June-6-2024'>6</td><td id='June-7-2024'>7</td><td id='June-8-2024'>8</td><td id='June-9-2024'>9</td></tr><td id='June-10-2024'>10</td><td id='June-11-2024'>11</td><td id='June-12-2024'>12</td><td id='June-13-2024'>13</td><td id='June-14-2024'>14</td><td id='June-15-2024'>15</td><td id='June-16-2024'>16</td></tr><td id='June-17-2024' style='background-color:#2e7d33; color:#fff;'>17</td><td id='June-18-2024'>18</td><td id='June-19-2024'>19</td><td id='June-20-2024' style='background-color:#0072bb; color:#fff;'>20</td><td id='June-21-2024' style='background-color:#6a1b99; color:#fff;'>21</td><td id='June-22-2024'>22</td><td id='June-23-2024'>23</td></tr><td id='June-24-2024'>24</td><td id='June-25-2024'>25</td><td id='June-26-2024'>26</td><td id='June-27-2024'>27</td><td id='June-28-2024'>28</td><td id='June-29-2024'>29</td><td id='June-30-2024'>30</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='June-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='julio-2024/' class='link-light text-decoration-none'>julio 2024</a></span></ul></li></div>
+          </tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td id='June-1-2025'>1</td></tr><td id='June-2-2025'>2</td><td id='June-3-2025'>3</td><td id='June-4-2025'>4</td><td id='June-5-2025'>5</td><td id='June-6-2025'>6</td><td id='June-7-2025'>7</td><td id='June-8-2025'>8</td></tr><td id='June-9-2025'>9</td><td id='June-10-2025' style='background-color:#595959; color:#fff;'>10</td><td id='June-11-2025'>11</td><td id='June-12-2025'>12</td><td id='June-13-2025'>13</td><td id='June-14-2025'>14</td><td id='June-15-2025'>15</td></tr><td id='June-16-2025' style='background-color:#2e7d33; color:#fff;'>16</td><td id='June-17-2025'>17</td><td id='June-18-2025'>18</td><td id='June-19-2025'>19</td><td id='June-20-2025' style='background-color:#0072bb; color:#fff;'>20</td><td id='June-21-2025'>21</td><td id='June-22-2025'>22</td></tr><td id='June-23-2025'>23</td><td id='June-24-2025'>24</td><td id='June-25-2025'>25</td><td id='June-26-2025' style='background-color:#595959; color:#fff;'>26</td><td id='June-27-2025'>27</td><td id='June-28-2025'>28</td><td id='June-29-2025'>29</td></tr><td id='June-30-2025'>30</td><td></td><td></td><td></td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='June-2025'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='julio-2025/' class='link-light text-decoration-none'>julio 2025</a></span></ul></li></div>
 
             <table class='table table-striped text-center' role='presentation'>
 
@@ -405,7 +405,7 @@
 
             <td aria-hidden='true' class='text-center dias'>Dom</td>
 
-          </tr><td id='July-1-2024'>1</td><td id='July-2-2024'>2</td><td id='July-3-2024'>3</td><td id='July-4-2024'>4</td><td id='July-5-2024'>5</td><td id='July-6-2024'>6</td><td id='July-7-2024' style='background-color:#595959; color:#fff;'>7</td></tr><td id='July-8-2024'>8</td><td id='July-9-2024' style='background-color:#0072bb; color:#fff;'>9</td><td id='July-10-2024'>10</td><td id='July-11-2024'>11</td><td id='July-12-2024'>12</td><td id='July-13-2024'>13</td><td id='July-14-2024'>14</td></tr><td id='July-15-2024'>15</td><td id='July-16-2024'>16</td><td id='July-17-2024'>17</td><td id='July-18-2024'>18</td><td id='July-19-2024'>19</td><td id='July-20-2024'>20</td><td id='July-21-2024'>21</td></tr><td id='July-22-2024'>22</td><td id='July-23-2024'>23</td><td id='July-24-2024'>24</td><td id='July-25-2024'>25</td><td id='July-26-2024'>26</td><td id='July-27-2024'>27</td><td id='July-28-2024'>28</td></tr><td id='July-29-2024'>29</td><td id='July-30-2024'>30</td><td id='July-31-2024'>31</td><td></td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='July-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='agosto-2024/' class='link-light text-decoration-none'>agosto 2024</a></span></ul></li></div>
+          </tr><td> </td><td id='July-1-2025'>1</td><td id='July-2-2025'>2</td><td id='July-3-2025'>3</td><td id='July-4-2025'>4</td><td id='July-5-2025'>5</td><td id='July-6-2025'>6</td></tr><td id='July-7-2025'>7</td><td id='July-8-2025'>8</td><td id='July-9-2025' style='background-color:#0072bb; color:#fff;'>9</td><td id='July-10-2025'>10</td><td id='July-11-2025'>11</td><td id='July-12-2025'>12</td><td id='July-13-2025'>13</td></tr><td id='July-14-2025'>14</td><td id='July-15-2025'>15</td><td id='July-16-2025'>16</td><td id='July-17-2025'>17</td><td id='July-18-2025'>18</td><td id='July-19-2025'>19</td><td id='July-20-2025'>20</td></tr><td id='July-21-2025'>21</td><td id='July-22-2025'>22</td><td id='July-23-2025'>23</td><td id='July-24-2025'>24</td><td id='July-25-2025'>25</td><td id='July-26-2025'>26</td><td id='July-27-2025'>27</td></tr><td id='July-28-2025'>28</td><td id='July-29-2025'>29</td><td id='July-30-2025'>30</td><td id='July-31-2025'>31</td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='July-2025'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='agosto-2025/' class='link-light text-decoration-none'>agosto 2025</a></span></ul></li></div>
 
             <table class='table table-striped text-center' role='presentation'>
 
@@ -427,7 +427,7 @@
 
             <td aria-hidden='true' class='text-center dias'>Dom</td>
 
-          </tr><td> </td><td> </td><td> </td><td id='August-1-2024'>1</td><td id='August-2-2024'>2</td><td id='August-3-2024'>3</td><td id='August-4-2024'>4</td></tr><td id='August-5-2024'>5</td><td id='August-6-2024'>6</td><td id='August-7-2024'>7</td><td id='August-8-2024'>8</td><td id='August-9-2024'>9</td><td id='August-10-2024'>10</td><td id='August-11-2024'>11</td></tr><td id='August-12-2024'>12</td><td id='August-13-2024'>13</td><td id='August-14-2024'>14</td><td id='August-15-2024'>15</td><td id='August-16-2024'>16</td><td id='August-17-2024' style='background-color:#2e7d33; color:#fff;'>17</td><td id='August-18-2024'>18</td></tr><td id='August-19-2024'>19</td><td id='August-20-2024'>20</td><td id='August-21-2024'>21</td><td id='August-22-2024'>22</td><td id='August-23-2024'>23</td><td id='August-24-2024'>24</td><td id='August-25-2024'>25</td></tr><td id='August-26-2024'>26</td><td id='August-27-2024'>27</td><td id='August-28-2024'>28</td><td id='August-29-2024'>29</td><td id='August-30-2024'>30</td><td id='August-31-2024'>31</td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='August-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='septiembre-2024/' class='link-light text-decoration-none'>septiembre 2024</a></span></ul></li></div>
+          </tr><td> </td><td> </td><td> </td><td> </td><td id='August-1-2025'>1</td><td id='August-2-2025'>2</td><td id='August-3-2025'>3</td></tr><td id='August-4-2025'>4</td><td id='August-5-2025'>5</td><td id='August-6-2025'>6</td><td id='August-7-2025'>7</td><td id='August-8-2025'>8</td><td id='August-9-2025'>9</td><td id='August-10-2025'>10</td></tr><td id='August-11-2025'>11</td><td id='August-12-2025'>12</td><td id='August-13-2025'>13</td><td id='August-14-2025'>14</td><td id='August-15-2025' style='background-color:#6a1b99; color:#fff;'>15</td><td id='August-16-2025'>16</td><td id='August-17-2025' style='background-color:#2e7d33; color:#fff;'>17</td></tr><td id='August-18-2025'>18</td><td id='August-19-2025'>19</td><td id='August-20-2025'>20</td><td id='August-21-2025'>21</td><td id='August-22-2025'>22</td><td id='August-23-2025'>23</td><td id='August-24-2025'>24</td></tr><td id='August-25-2025'>25</td><td id='August-26-2025'>26</td><td id='August-27-2025'>27</td><td id='August-28-2025'>28</td><td id='August-29-2025'>29</td><td id='August-30-2025'>30</td><td id='August-31-2025'>31</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='August-2025'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='septiembre-2025/' class='link-light text-decoration-none'>septiembre 2025</a></span></ul></li></div>
 
             <table class='table table-striped text-center' role='presentation'>
 
@@ -449,7 +449,7 @@
 
             <td aria-hidden='true' class='text-center dias'>Dom</td>
 
-          </tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td id='September-1-2024'>1</td></tr><td id='September-2-2024'>2</td><td id='September-3-2024'>3</td><td id='September-4-2024'>4</td><td id='September-5-2024'>5</td><td id='September-6-2024'>6</td><td id='September-7-2024'>7</td><td id='September-8-2024'>8</td></tr><td id='September-9-2024'>9</td><td id='September-10-2024'>10</td><td id='September-11-2024'>11</td><td id='September-12-2024'>12</td><td id='September-13-2024'>13</td><td id='September-14-2024'>14</td><td id='September-15-2024'>15</td></tr><td id='September-16-2024'>16</td><td id='September-17-2024'>17</td><td id='September-18-2024'>18</td><td id='September-19-2024'>19</td><td id='September-20-2024'>20</td><td id='September-21-2024'>21</td><td id='September-22-2024'>22</td></tr><td id='September-23-2024'>23</td><td id='September-24-2024'>24</td><td id='September-25-2024'>25</td><td id='September-26-2024'>26</td><td id='September-27-2024'>27</td><td id='September-28-2024'>28</td><td id='September-29-2024'>29</td></tr><td id='September-30-2024'>30</td><td></td><td></td><td></td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='September-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='octubre-2024/' class='link-light text-decoration-none'>octubre 2024</a></span></ul></li></div>
+          </tr><td id='September-1-2025'>1</td><td id='September-2-2025'>2</td><td id='September-3-2025'>3</td><td id='September-4-2025'>4</td><td id='September-5-2025'>5</td><td id='September-6-2025'>6</td><td id='September-7-2025'>7</td></tr><td id='September-8-2025'>8</td><td id='September-9-2025'>9</td><td id='September-10-2025'>10</td><td id='September-11-2025'>11</td><td id='September-12-2025'>12</td><td id='September-13-2025'>13</td><td id='September-14-2025'>14</td></tr><td id='September-15-2025'>15</td><td id='September-16-2025'>16</td><td id='September-17-2025'>17</td><td id='September-18-2025'>18</td><td id='September-19-2025'>19</td><td id='September-20-2025'>20</td><td id='September-21-2025'>21</td></tr><td id='September-22-2025'>22</td><td id='September-23-2025' style='background-color:#595959; color:#fff;'>23</td><td id='September-24-2025' style='background-color:#595959; color:#fff;'>24</td><td id='September-25-2025'>25</td><td id='September-26-2025'>26</td><td id='September-27-2025'>27</td><td id='September-28-2025'>28</td></tr><td id='September-29-2025'>29</td><td id='September-30-2025'>30</td><td></td><td></td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='September-2025'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='octubre-2025/' class='link-light text-decoration-none'>octubre 2025</a></span></ul></li></div>
 
             <table class='table table-striped text-center' role='presentation'>
 
@@ -471,7 +471,7 @@
 
             <td aria-hidden='true' class='text-center dias'>Dom</td>
 
-          </tr><td> </td><td id='October-1-2024'>1</td><td id='October-2-2024'>2</td><td id='October-3-2024' style='background-color:#595959; color:#fff;'>3</td><td id='October-4-2024' style='background-color:#595959; color:#fff;'>4</td><td id='October-5-2024'>5</td><td id='October-6-2024'>6</td></tr><td id='October-7-2024'>7</td><td id='October-8-2024'>8</td><td id='October-9-2024'>9</td><td id='October-10-2024'>10</td><td id='October-11-2024' style='background-color:#6a1b99; color:#fff;'>11</td><td id='October-12-2024' style='background-color:#2e7d33; color:#fff;'>12</td><td id='October-13-2024'>13</td></tr><td id='October-14-2024'>14</td><td id='October-15-2024'>15</td><td id='October-16-2024'>16</td><td id='October-17-2024'>17</td><td id='October-18-2024'>18</td><td id='October-19-2024'>19</td><td id='October-20-2024'>20</td></tr><td id='October-21-2024'>21</td><td id='October-22-2024'>22</td><td id='October-23-2024'>23</td><td id='October-24-2024'>24</td><td id='October-25-2024'>25</td><td id='October-26-2024'>26</td><td id='October-27-2024'>27</td></tr><td id='October-28-2024'>28</td><td id='October-29-2024'>29</td><td id='October-30-2024'>30</td><td id='October-31-2024'>31</td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='October-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='noviembre-2024/' class='link-light text-decoration-none'>noviembre 2024</a></span></ul></li></div>
+          </tr><td> </td><td> </td><td id='October-1-2025'>1</td><td id='October-2-2025' style='background-color:#595959; color:#fff;'>2</td><td id='October-3-2025'>3</td><td id='October-4-2025'>4</td><td id='October-5-2025'>5</td></tr><td id='October-6-2025'>6</td><td id='October-7-2025'>7</td><td id='October-8-2025'>8</td><td id='October-9-2025'>9</td><td id='October-10-2025'>10</td><td id='October-11-2025'>11</td><td id='October-12-2025' style='background-color:#2e7d33; color:#fff;'>12</td></tr><td id='October-13-2025'>13</td><td id='October-14-2025'>14</td><td id='October-15-2025'>15</td><td id='October-16-2025'>16</td><td id='October-17-2025'>17</td><td id='October-18-2025'>18</td><td id='October-19-2025'>19</td></tr><td id='October-20-2025'>20</td><td id='October-21-2025'>21</td><td id='October-22-2025'>22</td><td id='October-23-2025'>23</td><td id='October-24-2025'>24</td><td id='October-25-2025'>25</td><td id='October-26-2025'>26</td></tr><td id='October-27-2025'>27</td><td id='October-28-2025'>28</td><td id='October-29-2025'>29</td><td id='October-30-2025'>30</td><td id='October-31-2025'>31</td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='October-2025'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='noviembre-2025/' class='link-light text-decoration-none'>noviembre 2025</a></span></ul></li></div>
 
             <table class='table table-striped text-center' role='presentation'>
 
@@ -493,7 +493,7 @@
 
             <td aria-hidden='true' class='text-center dias'>Dom</td>
 
-          </tr><td> </td><td> </td><td> </td><td> </td><td id='November-1-2024'>1</td><td id='November-2-2024'>2</td><td id='November-3-2024'>3</td></tr><td id='November-4-2024'>4</td><td id='November-5-2024'>5</td><td id='November-6-2024'>6</td><td id='November-7-2024'>7</td><td id='November-8-2024'>8</td><td id='November-9-2024'>9</td><td id='November-10-2024'>10</td></tr><td id='November-11-2024'>11</td><td id='November-12-2024'>12</td><td id='November-13-2024'>13</td><td id='November-14-2024'>14</td><td id='November-15-2024'>15</td><td id='November-16-2024'>16</td><td id='November-17-2024'>17</td></tr><td id='November-18-2024' style='background-color:#2e7d33; color:#fff;'>18</td><td id='November-19-2024'>19</td><td id='November-20-2024'>20</td><td id='November-21-2024'>21</td><td id='November-22-2024'>22</td><td id='November-23-2024'>23</td><td id='November-24-2024'>24</td></tr><td id='November-25-2024'>25</td><td id='November-26-2024'>26</td><td id='November-27-2024'>27</td><td id='November-28-2024'>28</td><td id='November-29-2024'>29</td><td id='November-30-2024'>30</td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='November-2024'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='diciembre-2024/' class='link-light text-decoration-none'>diciembre 2024</a></span></ul></li></div>
+          </tr><td> </td><td> </td><td> </td><td> </td><td> </td><td id='November-1-2025'>1</td><td id='November-2-2025'>2</td></tr><td id='November-3-2025'>3</td><td id='November-4-2025'>4</td><td id='November-5-2025'>5</td><td id='November-6-2025'>6</td><td id='November-7-2025'>7</td><td id='November-8-2025'>8</td><td id='November-9-2025'>9</td></tr><td id='November-10-2025'>10</td><td id='November-11-2025'>11</td><td id='November-12-2025'>12</td><td id='November-13-2025'>13</td><td id='November-14-2025'>14</td><td id='November-15-2025'>15</td><td id='November-16-2025'>16</td></tr><td id='November-17-2025'>17</td><td id='November-18-2025'>18</td><td id='November-19-2025'>19</td><td id='November-20-2025'>20</td><td id='November-21-2025' style='background-color:#6a1b99; color:#fff;'>21</td><td id='November-22-2025'>22</td><td id='November-23-2025'>23</td></tr><td id='November-24-2025' style='background-color:#2e7d33; color:#fff;'>24</td><td id='November-25-2025'>25</td><td id='November-26-2025'>26</td><td id='November-27-2025'>27</td><td id='November-28-2025'>28</td><td id='November-29-2025'>29</td><td id='November-30-2025'>30</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='November-2025'> </div></div><div class='cont col-lg-4 col-md-6 col-sm-6' d-flex flex-column mx-auto> <div class='month'> <ul><li> <span class='text-uppercase fw-bold text-light'><a href='diciembre-2025/' class='link-light text-decoration-none'>diciembre 2025</a></span></ul></li></div>
 
             <table class='table table-striped text-center' role='presentation'>
 
@@ -515,7 +515,7 @@
 
             <td aria-hidden='true' class='text-center dias'>Dom</td>
 
-          </tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td id='December-1-2024'>1</td></tr><td id='December-2-2024'>2</td><td id='December-3-2024'>3</td><td id='December-4-2024'>4</td><td id='December-5-2024'>5</td><td id='December-6-2024'>6</td><td id='December-7-2024'>7</td><td id='December-8-2024' style='background-color:#0072bb; color:#fff;'>8</td></tr><td id='December-9-2024'>9</td><td id='December-10-2024'>10</td><td id='December-11-2024'>11</td><td id='December-12-2024'>12</td><td id='December-13-2024'>13</td><td id='December-14-2024'>14</td><td id='December-15-2024'>15</td></tr><td id='December-16-2024'>16</td><td id='December-17-2024'>17</td><td id='December-18-2024'>18</td><td id='December-19-2024'>19</td><td id='December-20-2024'>20</td><td id='December-21-2024'>21</td><td id='December-22-2024'>22</td></tr><td id='December-23-2024'>23</td><td id='December-24-2024' style='background-color:#B30000; color:#fff;'>24</td><td id='December-25-2024' style='background-color:#0072bb; color:#fff;'>25</td><td id='December-26-2024'>26</td><td id='December-27-2024'>27</td><td id='December-28-2024'>28</td><td id='December-29-2024'>29</td></tr><td id='December-30-2024'>30</td><td id='December-31-2024'>31</td><td></td><td></td><td></td><td></td><td></td></tbody></table><div class='lista' id='December-2024'> </div></div></div>
+          </tr><td id='December-1-2025'>1</td><td id='December-2-2025'>2</td><td id='December-3-2025'>3</td><td id='December-4-2025'>4</td><td id='December-5-2025'>5</td><td id='December-6-2025'>6</td><td id='December-7-2025'>7</td></tr><td id='December-8-2025' style='background-color:#0072bb; color:#fff;'>8</td><td id='December-9-2025'>9</td><td id='December-10-2025'>10</td><td id='December-11-2025'>11</td><td id='December-12-2025'>12</td><td id='December-13-2025'>13</td><td id='December-14-2025'>14</td></tr><td id='December-15-2025'>15</td><td id='December-16-2025'>16</td><td id='December-17-2025'>17</td><td id='December-18-2025'>18</td><td id='December-19-2025'>19</td><td id='December-20-2025'>20</td><td id='December-21-2025'>21</td></tr><td id='December-22-2025'>22</td><td id='December-23-2025'>23</td><td id='December-24-2025'>24</td><td id='December-25-2025' style='background-color:#0072bb; color:#fff;'>25</td><td id='December-26-2025'>26</td><td id='December-27-2025'>27</td><td id='December-28-2025'>28</td></tr><td id='December-29-2025'>29</td><td id='December-30-2025'>30</td><td id='December-31-2025'>31</td><td></td><td></td><td></td><td></td><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><div class='lista' id='December-2025'> </div></div></div>
 
 
 
@@ -562,7 +562,7 @@
 
 
 
-              <h4><b>Feriados Nacionales en Argentina 2024 </b></h4><br>
+              <h4><b>Feriados Nacionales en Argentina 2025 </b></h4><br>
             </div>
 
 
@@ -612,112 +612,100 @@
                   
                         <tr>
 
-                          <td><a style="color:black" href="feriado/ano-nuevo-2024">Año nuevo 2024</a></td>
-
-                          <td> <a style="color:black" href="feriado/ano-nuevo-2024">lunes 01 de enero 2024</a></td>
-
+                          <td>Año nuevo 2025</td>
+                          <td>miércoles 01 de enero 2025</td>
 
 
-                        
+
+                    
                         <tr>
 
-                          <td><a style="color:black" href="feriado/lunes-carnaval-2024">Carnaval 2024</a></td>
-
-                          <td> <a style="color:black" href="feriado/lunes-carnaval-2024">lunes 12 de febrero 2024</a></td>
-
+                          <td>Carnaval 2025</td>
+                          <td>lunes 03 de marzo 2025</td>
 
 
-                        
+
+                    
                         <tr>
 
-                          <td><a style="color:black" href="feriado/martes-carnaval-2024">Carnaval 2024</a></td>
-
-                          <td> <a style="color:black" href="feriado/martes-carnaval-2024">martes 13 de febrero 2024</a></td>
-
+                          <td>Carnaval 2025</td>
+                          <td>martes 04 de marzo 2025</td>
 
 
-                        
+
+                    
                         <tr>
 
-                          <td><a style="color:black" href="feriado/dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2024">Día Nacional de la Memoria por la Verdad y la Justicia</a></td>
-
-                          <td> <a style="color:black" href="feriado/dia-nacional-de-la-memoria-por-la-verdad-y-la-justicia-2024">domingo 24 de marzo 2024</a></td>
-
+                          <td>Día Nacional de la Memoria por la Verdad y la Justicia</td>
+                          <td>lunes 24 de marzo 2025</td>
 
 
-                        
+
+                    
                         <tr>
 
-                          <td><a style="color:black" href="feriado/viernes-santo-2024">Viernes Santo 2024</a></td>
-
-                          <td> <a style="color:black" href="feriado/viernes-santo-2024">viernes 29 de marzo 2024</a></td>
-
+                          <td>Día del Veterano y de los Caídos en la Guerra de Malvinas</td>
+                          <td>miércoles 02 de abril 2025</td>
 
 
-                        
+
+                    
                         <tr>
 
-                          <td><a style="color:black" href="feriado/dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2024">Día del Veterano y de los Caídos en la Guerra de Malvinas</a></td>
-
-                          <td> <a style="color:black" href="feriado/dia-del-veterano-y-de-los-caidos-en-la-guerra-de-malvinas-2024">martes 02 de abril 2024</a></td>
-
+                          <td>Viernes Santo</td>
+                          <td>viernes 18 de abril 2025</td>
 
 
-                        
+
+                    
                         <tr>
 
-                          <td><a style="color:black" href="feriado/dia-del-trabajador-2024">Día del Trabajador</a></td>
-
-                          <td> <a style="color:black" href="feriado/dia-del-trabajador-2024">miércoles 01 de mayo 2024</a></td>
-
+                          <td>Día del Trabajador</td>
+                          <td>jueves 01 de mayo 2025</td>
 
 
-                        
+
+                    
                         <tr>
 
-                          <td><a style="color:black" href="feriado/dia-de-la-revolucion-de-mayo-2024">Día de la Revolución de Mayo</a></td>
-
-                          <td> <a style="color:black" href="feriado/dia-de-la-revolucion-de-mayo-2024">sábado 25 de mayo 2024</a></td>
-
+                          <td> Día de la Revolución de Mayo</td>
+                          <td>domingo 25 de mayo 2025</td>
 
 
-                        
+
+                    
                         <tr>
 
-                          <td><a style="color:black" href="feriado/dia-de-la-bandera-2024">Día de la Bandera</a></td>
-
-                          <td> <a style="color:black" href="feriado/dia-de-la-bandera-2024">jueves 20 de junio 2024</a></td>
-
+                          <td>Día de la Bandera</td>
+                          <td>viernes 20 de junio 2025</td>
 
 
-                        
+
+                    
                         <tr>
 
-                          <td><a style="color:black" href="feriado/dia-de-la-independencia-2024">Día de la Independencia</a></td>
-
-                          <td> <a style="color:black" href="feriado/dia-de-la-independencia-2024">martes 09 de julio 2024</a></td>
-
+                          <td>Día de la Independencia</td>
+                          <td>miércoles 09 de julio 2025</td>
 
 
-                        
+
+                    
                         <tr>
 
-                          <td><a style="color:black" href="feriado/dia-de-la-inmaculada-concepcion-de-maria-2024">Día de la Virgen</a></td>
-
-                          <td> <a style="color:black" href="feriado/dia-de-la-inmaculada-concepcion-de-maria-2024">domingo 08 de diciembre 2024</a></td>
-
+                          <td>Día de la Virgen</td>
+                          <td>lunes 08 de diciembre 2025</td>
 
 
-                        
+
+                    
                         <tr>
 
-                          <td><a style="color:black" href="feriado/navidad-2024">Navidad 2024</a></td>
-
-                          <td> <a style="color:black" href="feriado/navidad-2024">miércoles 25 de diciembre 2024</a></td>
-
+                          <td>Navidad 2025</td>
+                          <td>jueves 25 de diciembre 2025</td>
 
 
-                        
+
+                    
                         </tr>
 
                 </tbody>
@@ -765,56 +753,64 @@
                   
                         <tr>
 
-                          <td>Jueves Santo 2024</td>
-                          <td>jueves 28 de marzo 2024</td>
+                          <td>Fiesta de la Ruptura del Ayuno del Sagrado Mes de Ramadán (Id al-Fitr)</td>
+                          <td>lunes 31 de marzo 2025</td>
 
 
 
                     
                         <tr>
 
-                          <td>Fiesta de la Ruptura del Ayuno del Sagrado Mes de Ramadán (Id al-Fitr) </td>
-                          <td>domingo 21 de abril 2024</td>
+                          <td>Primeros dos días de la Pascua Judía </td>
+                          <td>domingo 13 de abril 2025</td>
 
 
 
                     
                         <tr>
 
-                          <td>Primeros dos días de la Pascua Judía (b)</td>
-                          <td>martes 23 de abril 2024</td>
+                          <td>Primeros dos días de la Pascua Judía </td>
+                          <td>lunes 14 de abril 2025</td>
 
 
 
                     
                         <tr>
 
-                          <td>Día de acción por la tolerancia y el respeto entre los pueblos</td>
-                          <td>miércoles 24 de abril 2024</td>
+                          <td>Jueves Santo Festividad Cristiana</td>
+                          <td>jueves 17 de abril 2025</td>
 
 
 
                     
                         <tr>
 
-                          <td>Primeros dos días de la Pascua Judía (b)</td>
-                          <td>miércoles 24 de abril 2024</td>
+                          <td>Últimos dos días de la Pascua Judía </td>
+                          <td>sábado 19 de abril 2025</td>
 
 
 
                     
                         <tr>
 
-                          <td>Últimos dos días de la Pascua Judía (b)</td>
-                          <td>lunes 29 de abril 2024</td>
+                          <td>Últimos dos días de la Pascua Judía</td>
+                          <td>domingo 20 de abril 2025</td>
 
 
 
                     
                         <tr>
 
-                          <td>Últimos dos días de la Pascua Judía (b)</td>
-                          <td>martes 30 de abril 2024</td>
+                          <td>Día de acción por la tolerancia y el respeto entre los pueblos </td>
+                          <td>jueves 24 de abril 2025</td>
+
+
+
+                    
+                        <tr>
+
+                          <td>Fiesta del Sacrificio</td>
+                          <td>martes 10 de junio 2025</td>
 
 
 
@@ -822,31 +818,31 @@
                         <tr>
 
                           <td>Año Nuevo Islámico</td>
-                          <td>domingo 07 de julio 2024</td>
+                          <td>jueves 26 de junio 2025</td>
 
 
 
                     
                         <tr>
 
-                          <td>Año Nuevo Judío</td>
-                          <td>jueves 03 de octubre 2024</td>
+                          <td>Año Nuevo Judío </td>
+                          <td>martes 23 de septiembre 2025</td>
 
 
 
                     
                         <tr>
 
-                          <td>Año Nuevo Judío</td>
-                          <td>viernes 04 de octubre 2024</td>
+                          <td>Año Nuevo Judío </td>
+                          <td>miércoles 24 de septiembre 2025</td>
 
 
 
                     
                         <tr>
 
-                          <td>Día del Perdón - Yom Kipur</td>
-                          <td>sábado 12 de octubre 2024</td>
+                          <td>Día del Perdón </td>
+                          <td>jueves 02 de octubre 2025</td>
 
 
 
@@ -898,31 +894,28 @@
                   
                         <tr>
 
-                          <td><a style="color:black" href="feriado/feriado-puente-1-de-abril-2024">Feriado Puente 1 de abril 2024</a></td>
-
-                          <td> <a style="color:black" href="feriado/feriado-puente-1-de-abril-2024">lunes 01 de abril 2024</a></td>
-
+                          <td>Feriado turístico 2 de mayo 2025</td>
+                          <td>viernes 02 de mayo 2025</td>
 
 
-                        
+
+                    
                         <tr>
 
-                          <td><a style="color:black" href="feriado/feriado-puente-y-turistico-21-de-junio-2024">Feriado puente y turistico 21 de junio 2024</a></td>
-
-                          <td> <a style="color:black" href="feriado/feriado-puente-y-turistico-21-de-junio-2024">viernes 21 de junio 2024</a></td>
-
+                          <td>Feriado turístico 15 de agosto 2025</td>
+                          <td>viernes 15 de agosto 2025</td>
 
 
-                        
+
+                    
                         <tr>
 
-                          <td><a style="color:black" href="feriado/feriado-turistico-11-de-octubre-2024">Feriado turístico 11 de octubre  2024</a></td>
-
-                          <td> <a style="color:black" href="feriado/feriado-turistico-11-de-octubre-2024">viernes 11 de octubre 2024</a></td>
-
+                          <td>Feriados Turístico 21 de noviembre 2025</td>
+                          <td>viernes 21 de noviembre 2025</td>
 
 
-                        
+
+                    
                         </tr>
 
                 </tbody>
@@ -970,36 +963,36 @@
                   
                       <tr>
 
-                        <td><a style="color:black" href="feriado/paso-la-inmortalidad-del-general-martIn-miguel-de-guemes-2024">Paso a la Inmortalidad del General Don Martín Miguel de Güemes</a></td>
+                        <td><a style="color:black" href="feriado/paso-a-la-inmortalidad-del-general-don-martin-miguel-de-gemes">Paso a la Inmortalidad del General Don Martín Miguel de Güemes (17/10)</a></td>
 
-                        <td> <a style="color:black" href="feriado/paso-la-inmortalidad-del-general-martIn-miguel-de-guemes-2024">lunes 17 de junio 2024</a></td>
-
-
-
-                    
-                      <tr>
-
-                        <td><a style="color:black" href="feriado/paso-la-inmortalidad-del-general-jose-de-san-martn-2024">Paso a la Inmortalidad del Gral. José de San Martín</a></td>
-
-                        <td> <a style="color:black" href="feriado/paso-la-inmortalidad-del-general-jose-de-san-martn-2024">sábado 17 de agosto 2024</a></td>
+                        <td> <a style="color:black" href="feriado/paso-a-la-inmortalidad-del-general-don-martin-miguel-de-gemes">lunes 16 de junio 2025</a></td>
 
 
 
                     
                       <tr>
 
-                        <td><a style="color:black" href="feriado/dia-del-respeto-la-diversidad-cultural-2024">Día del Respeto a la Diversidad Cultural</a></td>
+                        <td><a style="color:black" href="feriado/paso-a-la-inmortalidad-del-gral-jose-de-san-martin">Paso a la Inmortalidad del Gral. José de San Martín </a></td>
 
-                        <td> <a style="color:black" href="feriado/dia-del-respeto-la-diversidad-cultural-2024">sábado 12 de octubre 2024</a></td>
+                        <td> <a style="color:black" href="feriado/paso-a-la-inmortalidad-del-gral-jose-de-san-martin">domingo 17 de agosto 2025</a></td>
 
 
 
                     
                       <tr>
 
-                        <td><a style="color:black" href="feriado/dia-de-la-soberania-nacional-2024">Día de la Soberanía Nacional 2024</a></td>
+                        <td><a style="color:black" href="feriado/dia-del-respeto-a-la-diversidad-cultural">Día del Respeto a la Diversidad Cultural</a></td>
 
-                        <td> <a style="color:black" href="feriado/dia-de-la-soberania-nacional-2024">lunes 18 de noviembre 2024</a></td>
+                        <td> <a style="color:black" href="feriado/dia-del-respeto-a-la-diversidad-cultural">domingo 12 de octubre 2025</a></td>
+
+
+
+                    
+                      <tr>
+
+                        <td><a style="color:black" href="feriado/dia-de-la-soberania-nacional-2025">Día de la Soberanía Nacional 2025</a></td>
+
+                        <td> <a style="color:black" href="feriado/dia-de-la-soberania-nacional-2025">lunes 24 de noviembre 2025</a></td>
 
 
 
